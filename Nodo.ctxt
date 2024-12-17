@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Nodo
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Nodo\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=valor
+comment1.target=Nodo(LugarTuristico)
+comment2.params=
+comment2.target=LugarTuristico\ getValor()
+comment3.params=v
+comment3.target=void\ setValor(LugarTuristico)
+comment4.params=
+comment4.target=Nodo\ getSiguiente()
+comment5.params=s
+comment5.target=void\ setSiguiente(Nodo)
+comment6.params=
+comment6.target=Nodo\ getAnterior()
+comment7.params=anterior
+comment7.target=void\ setAnterior(Nodo)
+numComments=8

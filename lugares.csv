@@ -1,0 +1,2002 @@
+nombre,estado de ubicacion,clima,tipo,horasdeRecorrido(en minutos),costo del pasaje
+Río Cristalino 4907,Yucatán,Cálido,Valle,247,750
+Montaña Mágica 3625,Chihuahua,Frío,Lago,208,608
+Playa Paraíso 5650,Puebla,Frío,Valle,428,604
+Desierto Dorado 423,Veracruz,Templado,Montaña,354,890
+Bosque de Niebla 7672,Chiapas,Frío,Montaña,272,149
+Cañón del Gigante 7544,Jalisco,Frío,Valle,349,769
+Bosque de Niebla 4696,Veracruz,Templado,Isla,145,937
+Bosque de Niebla 152,Veracruz,Húmedo,Lago,480,425
+Valle Encantado 3129,Jalisco,Frío,Selva,305,544
+Cañón del Gigante 6515,Yucatán,Húmedo,Selva,248,500
+Cañón del Gigante 3118,Oaxaca,Cálido,Lago,260,143
+Valle Encantado 6819,Hidalgo,Frío,Isla,421,598
+Montaña Mágica 7847,Puebla,Templado,Lago,448,66
+Río Cristalino 8858,Puebla,Seco,Montaña,440,800
+Cañón del Gigante 7218,Yucatán,Templado,Montaña,264,559
+Laguna Azul 9834,Oaxaca,Seco,Desierto,239,907
+Bosque de Niebla 6873,Chiapas,Frío,Selva,30,336
+Isla del Sol 4459,Puebla,Templado,Desierto,394,253
+Cascada Escondida 8573,Puebla,Húmedo,Río,274,731
+Desierto Dorado 6114,Yucatán,Húmedo,Lago,207,623
+Cascada Escondida 2770,Quintana Roo,Seco,Lago,151,622
+Laguna Azul 7560,Quintana Roo,Húmedo,Río,244,382
+Laguna Azul 631,Oaxaca,Frío,Selva,468,275
+Valle Encantado 810,Oaxaca,Húmedo,Valle,434,319
+Valle Encantado 7215,Chihuahua,Templado,Río,418,767
+Cascada Escondida 542,Hidalgo,Frío,Río,96,694
+Cañón del Gigante 6864,Jalisco,Húmedo,Selva,201,250
+Playa Paraíso 370,Oaxaca,Templado,Lago,140,436
+Laguna Azul 7875,Quintana Roo,Seco,Desierto,123,894
+Isla del Sol 5924,Quintana Roo,Húmedo,Montaña,480,864
+Bosque de Niebla 7322,Puebla,Húmedo,Montaña,451,283
+Valle Encantado 7299,Oaxaca,Cálido,Selva,188,496
+Montaña Mágica 5717,Sonora,Templado,Lago,480,750
+Desierto Dorado 3298,Jalisco,Húmedo,Desierto,451,827
+Montaña Mágica 2569,Chiapas,Húmedo,Montaña,123,400
+Cascada Escondida 5450,Hidalgo,Templado,Río,340,189
+Río Cristalino 3655,Chihuahua,Frío,Montaña,254,611
+Bosque de Niebla 2480,Oaxaca,Frío,Valle,475,472
+Bosque de Niebla 3589,Jalisco,Cálido,Playa,138,610
+Isla del Sol 9992,Chiapas,Cálido,Desierto,370,398
+Montaña Mágica 4041,Quintana Roo,Húmedo,Playa,175,535
+Río Cristalino 1872,Chihuahua,Cálido,Valle,460,704
+Playa Paraíso 5111,Quintana Roo,Húmedo,Río,192,355
+Playa Paraíso 4828,Sonora,Húmedo,Desierto,472,540
+Río Cristalino 8375,Chiapas,Cálido,Playa,473,617
+Bosque de Niebla 5124,Veracruz,Frío,Lago,151,386
+Montaña Mágica 3694,Chihuahua,Cálido,Desierto,289,216
+Cañón del Gigante 7061,Chihuahua,Cálido,Desierto,179,118
+Bosque de Niebla 6146,Oaxaca,Cálido,Selva,73,158
+Bosque de Niebla 3989,Quintana Roo,Frío,Selva,30,221
+Playa Paraíso 8340,Chihuahua,Templado,Isla,386,608
+Isla del Sol 2930,Jalisco,Cálido,Isla,336,277
+Cañón del Gigante 6200,Chiapas,Cálido,Playa,196,276
+Cascada Escondida 7935,Sonora,Húmedo,Lago,41,579
+Desierto Dorado 9332,Quintana Roo,Templado,Selva,328,716
+Playa Paraíso 7226,Chihuahua,Seco,Lago,407,149
+Cañón del Gigante 1375,Quintana Roo,Cálido,Playa,411,432
+Playa Paraíso 7337,Chiapas,Cálido,Isla,380,814
+Bosque de Niebla 8173,Sonora,Cálido,Desierto,252,424
+Isla del Sol 1177,Chiapas,Húmedo,Isla,115,580
+Playa Paraíso 3893,Sonora,Templado,Montaña,473,910
+Montaña Mágica 4223,Sonora,Húmedo,Desierto,61,351
+Montaña Mágica 9067,Yucatán,Húmedo,Valle,397,600
+Río Cristalino 6429,Chiapas,Seco,Lago,229,444
+Montaña Mágica 683,Quintana Roo,Húmedo,Selva,430,593
+Cascada Escondida 744,Oaxaca,Frío,Isla,104,163
+Bosque de Niebla 9365,Veracruz,Frío,Lago,88,472
+Playa Paraíso 6456,Veracruz,Templado,Desierto,205,602
+Cañón del Gigante 3228,Oaxaca,Húmedo,Río,390,972
+Laguna Azul 6707,Jalisco,Cálido,Selva,325,111
+Valle Encantado 1977,Yucatán,Seco,Desierto,398,142
+Playa Paraíso 9348,Quintana Roo,Templado,Desierto,222,292
+Cañón del Gigante 7716,Oaxaca,Cálido,Desierto,140,701
+Río Cristalino 273,Hidalgo,Frío,Valle,235,834
+Valle Encantado 3457,Veracruz,Cálido,Río,405,247
+Cañón del Gigante 6120,Puebla,Seco,Desierto,428,928
+Cascada Escondida 4769,Veracruz,Húmedo,Desierto,361,525
+Laguna Azul 4391,Chihuahua,Seco,Selva,338,199
+Valle Encantado 5006,Oaxaca,Húmedo,Selva,342,97
+Cascada Escondida 3869,Jalisco,Húmedo,Desierto,275,804
+Montaña Mágica 3699,Quintana Roo,Cálido,Lago,359,423
+Isla del Sol 5907,Veracruz,Cálido,Lago,198,894
+Playa Paraíso 6663,Sonora,Húmedo,Desierto,99,858
+Bosque de Niebla 5309,Oaxaca,Húmedo,Selva,191,599
+Desierto Dorado 8620,Oaxaca,Seco,Valle,298,179
+Playa Paraíso 3750,Quintana Roo,Seco,Isla,211,853
+Cascada Escondida 5970,Hidalgo,Seco,Lago,453,249
+Montaña Mágica 520,Puebla,Frío,Montaña,428,674
+Playa Paraíso 7081,Jalisco,Seco,Valle,442,130
+Cascada Escondida 9430,Yucatán,Seco,Lago,379,542
+Playa Paraíso 888,Chihuahua,Templado,Selva,135,992
+Bosque de Niebla 9760,Puebla,Templado,Valle,64,98
+Bosque de Niebla 9302,Chihuahua,Frío,Río,308,800
+Valle Encantado 2012,Quintana Roo,Húmedo,Río,304,753
+Playa Paraíso 490,Hidalgo,Frío,Valle,464,781
+Desierto Dorado 1067,Chiapas,Húmedo,Selva,111,542
+Desierto Dorado 5583,Chiapas,Cálido,Selva,277,155
+Montaña Mágica 6888,Hidalgo,Frío,Playa,296,784
+Playa Paraíso 7190,Veracruz,Cálido,Montaña,356,835
+Cañón del Gigante 8395,Puebla,Frío,Selva,54,303
+Desierto Dorado 2939,Sonora,Templado,Playa,152,832
+Valle Encantado 607,Chihuahua,Seco,Isla,268,522
+Laguna Azul 7777,Quintana Roo,Cálido,Montaña,178,116
+Laguna Azul 2319,Chihuahua,Cálido,Selva,220,666
+Cascada Escondida 9433,Veracruz,Seco,Desierto,138,644
+Río Cristalino 9589,Chiapas,Seco,Desierto,88,175
+Valle Encantado 9855,Hidalgo,Seco,Montaña,42,261
+Cañón del Gigante 3649,Chihuahua,Cálido,Isla,362,88
+Isla del Sol 5806,Quintana Roo,Seco,Desierto,368,246
+Río Cristalino 9,Yucatán,Templado,Lago,450,132
+Cascada Escondida 1184,Chihuahua,Seco,Isla,172,879
+Bosque de Niebla 8161,Chihuahua,Frío,Playa,357,248
+Laguna Azul 6745,Chihuahua,Frío,Río,228,805
+Río Cristalino 7663,Jalisco,Seco,Selva,145,804
+Laguna Azul 4730,Veracruz,Frío,Valle,336,844
+Montaña Mágica 2952,Jalisco,Húmedo,Isla,117,448
+Desierto Dorado 7078,Oaxaca,Cálido,Selva,263,990
+Playa Paraíso 1448,Jalisco,Templado,Lago,176,783
+Isla del Sol 9780,Puebla,Seco,Playa,358,609
+Playa Paraíso 3081,Jalisco,Frío,Río,92,474
+Río Cristalino 8460,Sonora,Húmedo,Valle,236,380
+Isla del Sol 8748,Chihuahua,Seco,Selva,79,786
+Bosque de Niebla 4771,Puebla,Cálido,Selva,300,701
+Valle Encantado 7871,Hidalgo,Templado,Isla,73,103
+Cañón del Gigante 1889,Hidalgo,Seco,Isla,295,363
+Cascada Escondida 9745,Jalisco,Seco,Desierto,181,525
+Cañón del Gigante 605,Chiapas,Seco,Desierto,247,318
+Cañón del Gigante 1545,Sonora,Seco,Desierto,430,990
+Laguna Azul 7197,Sonora,Frío,Río,426,939
+Isla del Sol 3830,Veracruz,Húmedo,Isla,243,372
+Cascada Escondida 1794,Chiapas,Frío,Isla,46,601
+Cascada Escondida 8020,Hidalgo,Seco,Selva,103,888
+Valle Encantado 6417,Hidalgo,Frío,Desierto,469,244
+Cañón del Gigante 6243,Puebla,Seco,Selva,126,327
+Playa Paraíso 6836,Sonora,Templado,Playa,36,609
+Isla del Sol 5025,Chihuahua,Templado,Selva,55,778
+Valle Encantado 5163,Quintana Roo,Cálido,Lago,365,424
+Cañón del Gigante 7550,Chihuahua,Frío,Lago,132,406
+Isla del Sol 6798,Quintana Roo,Templado,Desierto,115,380
+Isla del Sol 9380,Jalisco,Seco,Valle,411,879
+Río Cristalino 9893,Yucatán,Cálido,Selva,435,777
+Laguna Azul 7455,Quintana Roo,Cálido,Desierto,336,608
+Río Cristalino 1014,Oaxaca,Seco,Río,79,725
+Cascada Escondida 4122,Chihuahua,Húmedo,Lago,234,618
+Desierto Dorado 7471,Puebla,Seco,Playa,329,977
+Isla del Sol 4334,Oaxaca,Templado,Río,174,729
+Montaña Mágica 4866,Quintana Roo,Frío,Isla,91,650
+Cascada Escondida 2985,Sonora,Húmedo,Lago,68,358
+Isla del Sol 582,Oaxaca,Cálido,Desierto,31,643
+Cascada Escondida 6058,Sonora,Cálido,Valle,93,877
+Río Cristalino 8192,Chihuahua,Cálido,Valle,292,725
+Isla del Sol 3678,Yucatán,Húmedo,Desierto,162,212
+Montaña Mágica 6460,Chihuahua,Cálido,Selva,334,418
+Bosque de Niebla 135,Yucatán,Templado,Desierto,284,655
+Cañón del Gigante 2073,Quintana Roo,Seco,Lago,302,219
+Montaña Mágica 15,Puebla,Húmedo,Desierto,417,218
+Montaña Mágica 630,Hidalgo,Frío,Selva,345,747
+Desierto Dorado 5086,Chihuahua,Seco,Playa,460,828
+Desierto Dorado 8652,Jalisco,Húmedo,Selva,283,184
+Cascada Escondida 9852,Puebla,Seco,Montaña,398,240
+Bosque de Niebla 228,Jalisco,Húmedo,Selva,248,876
+Playa Paraíso 1064,Oaxaca,Frío,Selva,478,63
+Montaña Mágica 5142,Veracruz,Seco,Selva,385,945
+Cascada Escondida 2881,Chiapas,Templado,Desierto,388,584
+Isla del Sol 7540,Jalisco,Templado,Selva,253,428
+Desierto Dorado 1561,Sonora,Frío,Valle,226,771
+Laguna Azul 7910,Jalisco,Cálido,Valle,358,94
+Río Cristalino 6949,Sonora,Templado,Río,247,467
+Río Cristalino 7140,Chiapas,Cálido,Isla,424,239
+Bosque de Niebla 4350,Chiapas,Seco,Playa,116,982
+Montaña Mágica 2580,Chihuahua,Seco,Selva,285,162
+Cascada Escondida 3400,Yucatán,Cálido,Desierto,416,258
+Valle Encantado 9653,Chiapas,Templado,Desierto,64,747
+Cañón del Gigante 5978,Veracruz,Cálido,Isla,177,748
+Cañón del Gigante 767,Puebla,Frío,Selva,185,256
+Montaña Mágica 8865,Puebla,Frío,Isla,165,439
+Bosque de Niebla 6076,Jalisco,Cálido,Montaña,76,574
+Bosque de Niebla 6342,Quintana Roo,Templado,Valle,305,63
+Laguna Azul 1885,Yucatán,Seco,Isla,299,936
+Río Cristalino 210,Yucatán,Templado,Valle,118,824
+Laguna Azul 4629,Oaxaca,Húmedo,Montaña,277,125
+Playa Paraíso 9553,Quintana Roo,Cálido,Isla,43,780
+Desierto Dorado 9269,Jalisco,Templado,Playa,426,327
+Desierto Dorado 8349,Hidalgo,Frío,Valle,248,667
+Desierto Dorado 3037,Yucatán,Templado,Río,341,985
+Cascada Escondida 9866,Hidalgo,Frío,Lago,437,388
+Playa Paraíso 8308,Oaxaca,Seco,Lago,411,160
+Cañón del Gigante 2393,Sonora,Frío,Desierto,359,672
+Montaña Mágica 3207,Hidalgo,Frío,Desierto,62,254
+Bosque de Niebla 1952,Veracruz,Húmedo,Río,67,954
+Bosque de Niebla 6378,Sonora,Seco,Lago,130,416
+Laguna Azul 6943,Puebla,Seco,Montaña,145,584
+Río Cristalino 5225,Jalisco,Templado,Río,190,357
+Cascada Escondida 1797,Yucatán,Frío,Playa,98,345
+Cascada Escondida 3803,Chiapas,Templado,Isla,33,189
+Río Cristalino 5277,Veracruz,Frío,Isla,82,627
+Desierto Dorado 7503,Chiapas,Cálido,Desierto,263,446
+Laguna Azul 4225,Chiapas,Cálido,Río,469,188
+Isla del Sol 530,Oaxaca,Húmedo,Desierto,97,872
+Bosque de Niebla 7559,Hidalgo,Templado,Desierto,187,490
+Isla del Sol 6208,Jalisco,Templado,Lago,121,680
+Isla del Sol 4787,Oaxaca,Seco,Selva,436,740
+Desierto Dorado 3945,Hidalgo,Frío,Río,223,592
+Río Cristalino 9534,Jalisco,Frío,Selva,405,92
+Río Cristalino 8510,Oaxaca,Húmedo,Playa,464,428
+Isla del Sol 5482,Chiapas,Seco,Río,386,783
+Desierto Dorado 5608,Puebla,Húmedo,Playa,250,540
+Laguna Azul 9558,Veracruz,Frío,Montaña,439,982
+Laguna Azul 9688,Oaxaca,Cálido,Lago,449,192
+Isla del Sol 6175,Jalisco,Frío,Selva,189,177
+Cañón del Gigante 1340,Quintana Roo,Frío,Playa,176,467
+Playa Paraíso 429,Chihuahua,Templado,Lago,180,88
+Valle Encantado 881,Sonora,Húmedo,Valle,133,219
+Cascada Escondida 8820,Veracruz,Húmedo,Desierto,437,201
+Desierto Dorado 4538,Chiapas,Templado,Playa,149,339
+Cascada Escondida 1451,Chiapas,Cálido,Playa,332,230
+Laguna Azul 5425,Yucatán,Seco,Valle,449,249
+Bosque de Niebla 58,Veracruz,Templado,Montaña,121,604
+Bosque de Niebla 4936,Chihuahua,Húmedo,Valle,393,616
+Bosque de Niebla 6614,Yucatán,Húmedo,Isla,309,514
+Río Cristalino 5540,Sonora,Seco,Selva,318,396
+Cañón del Gigante 9119,Puebla,Húmedo,Playa,297,425
+Cascada Escondida 241,Yucatán,Frío,Valle,159,569
+Cañón del Gigante 7333,Hidalgo,Húmedo,Montaña,468,495
+Cascada Escondida 4621,Oaxaca,Seco,Valle,413,228
+Bosque de Niebla 7780,Chihuahua,Frío,Montaña,76,729
+Cañón del Gigante 1459,Jalisco,Frío,Desierto,438,693
+Bosque de Niebla 5691,Veracruz,Seco,Lago,131,571
+Playa Paraíso 8440,Hidalgo,Húmedo,Playa,163,630
+Playa Paraíso 9120,Chihuahua,Frío,Río,358,328
+Río Cristalino 535,Hidalgo,Frío,Río,364,82
+Cascada Escondida 4600,Oaxaca,Cálido,Isla,285,889
+Valle Encantado 9663,Jalisco,Cálido,Playa,156,806
+Cascada Escondida 3611,Hidalgo,Frío,Desierto,86,611
+Valle Encantado 2596,Veracruz,Templado,Valle,91,349
+Playa Paraíso 8081,Veracruz,Cálido,Río,381,422
+Montaña Mágica 8064,Yucatán,Cálido,Lago,445,727
+Cañón del Gigante 9559,Quintana Roo,Cálido,Selva,372,104
+Valle Encantado 762,Puebla,Cálido,Desierto,266,198
+Isla del Sol 7037,Puebla,Seco,Lago,322,201
+Valle Encantado 3607,Jalisco,Húmedo,Playa,412,873
+Cascada Escondida 3694,Jalisco,Templado,Isla,473,605
+Valle Encantado 5222,Yucatán,Templado,Valle,460,464
+Isla del Sol 3920,Puebla,Cálido,Montaña,291,283
+Laguna Azul 2173,Chiapas,Cálido,Río,333,679
+Montaña Mágica 8447,Chihuahua,Húmedo,Playa,418,491
+Bosque de Niebla 4494,Puebla,Seco,Selva,215,999
+Montaña Mágica 2426,Chiapas,Templado,Montaña,111,187
+Cascada Escondida 2059,Yucatán,Seco,Selva,322,141
+Cascada Escondida 5745,Sonora,Húmedo,Valle,312,845
+Playa Paraíso 7615,Chiapas,Húmedo,Selva,263,967
+Playa Paraíso 1860,Oaxaca,Húmedo,Montaña,86,474
+Río Cristalino 4292,Oaxaca,Cálido,Desierto,298,100
+Playa Paraíso 7321,Chihuahua,Cálido,Desierto,291,910
+Isla del Sol 8216,Hidalgo,Cálido,Isla,394,167
+Desierto Dorado 5161,Jalisco,Húmedo,Selva,142,110
+Cascada Escondida 5855,Jalisco,Seco,Lago,337,762
+Cañón del Gigante 6368,Puebla,Templado,Playa,107,391
+Río Cristalino 9656,Jalisco,Frío,Selva,268,976
+Río Cristalino 6199,Sonora,Seco,Isla,238,828
+Bosque de Niebla 1909,Oaxaca,Húmedo,Valle,396,347
+Laguna Azul 518,Yucatán,Seco,Valle,149,713
+Laguna Azul 1727,Jalisco,Frío,Montaña,460,392
+Cascada Escondida 476,Chihuahua,Frío,Selva,473,521
+Río Cristalino 9174,Sonora,Seco,Lago,219,114
+Playa Paraíso 1706,Oaxaca,Templado,Isla,448,864
+Laguna Azul 3408,Veracruz,Húmedo,Selva,191,553
+Laguna Azul 2053,Veracruz,Húmedo,Playa,363,151
+Playa Paraíso 7866,Veracruz,Seco,Selva,398,253
+Cañón del Gigante 1565,Hidalgo,Templado,Lago,234,817
+Laguna Azul 8050,Puebla,Húmedo,Selva,381,529
+Cañón del Gigante 1586,Sonora,Frío,Desierto,210,800
+Playa Paraíso 534,Chiapas,Seco,Isla,122,798
+Playa Paraíso 311,Sonora,Cálido,Playa,172,946
+Cascada Escondida 5503,Yucatán,Frío,Desierto,370,954
+Playa Paraíso 9036,Hidalgo,Templado,Playa,40,816
+Desierto Dorado 5854,Chihuahua,Templado,Desierto,174,266
+Valle Encantado 5601,Yucatán,Seco,Valle,281,998
+Playa Paraíso 936,Quintana Roo,Templado,Selva,120,759
+Río Cristalino 182,Hidalgo,Cálido,Montaña,75,418
+Cascada Escondida 9206,Jalisco,Húmedo,Río,465,88
+Montaña Mágica 9179,Jalisco,Cálido,Valle,137,624
+Desierto Dorado 4364,Yucatán,Seco,Lago,456,664
+Bosque de Niebla 3190,Hidalgo,Frío,Isla,358,356
+Laguna Azul 5155,Yucatán,Templado,Valle,181,692
+Montaña Mágica 6256,Puebla,Templado,Selva,199,970
+Valle Encantado 6165,Chihuahua,Cálido,Playa,160,475
+Río Cristalino 4395,Yucatán,Frío,Desierto,405,447
+Desierto Dorado 151,Veracruz,Húmedo,Playa,305,313
+Montaña Mágica 8329,Hidalgo,Cálido,Desierto,69,706
+Playa Paraíso 9868,Puebla,Frío,Selva,217,407
+Valle Encantado 4885,Chiapas,Templado,Isla,307,913
+Cañón del Gigante 6402,Sonora,Frío,Playa,364,160
+Laguna Azul 441,Jalisco,Húmedo,Río,344,100
+Desierto Dorado 4154,Jalisco,Frío,Lago,310,920
+Valle Encantado 7008,Puebla,Cálido,Isla,395,213
+Río Cristalino 7136,Veracruz,Húmedo,Desierto,361,297
+Playa Paraíso 1669,Chiapas,Húmedo,Isla,356,85
+Desierto Dorado 4068,Chihuahua,Seco,Playa,347,246
+Laguna Azul 5141,Quintana Roo,Cálido,Lago,210,768
+Bosque de Niebla 4265,Hidalgo,Cálido,Montaña,156,554
+Río Cristalino 6152,Yucatán,Frío,Desierto,436,499
+Laguna Azul 8458,Chiapas,Templado,Playa,77,308
+Isla del Sol 1316,Hidalgo,Cálido,Valle,211,385
+Desierto Dorado 4670,Chiapas,Templado,Valle,208,489
+Bosque de Niebla 8566,Chihuahua,Cálido,Valle,131,762
+Valle Encantado 8070,Oaxaca,Húmedo,Desierto,206,813
+Montaña Mágica 1797,Chihuahua,Cálido,Isla,240,654
+Laguna Azul 3827,Veracruz,Cálido,Río,362,725
+Cascada Escondida 877,Puebla,Húmedo,Valle,351,668
+Playa Paraíso 6948,Yucatán,Frío,Montaña,438,758
+Valle Encantado 666,Hidalgo,Templado,Lago,147,766
+Cañón del Gigante 414,Oaxaca,Cálido,Desierto,298,463
+Isla del Sol 72,Quintana Roo,Frío,Selva,379,807
+Montaña Mágica 3393,Yucatán,Cálido,Playa,195,317
+Río Cristalino 2175,Quintana Roo,Templado,Montaña,370,111
+Cañón del Gigante 3735,Chihuahua,Seco,Desierto,192,660
+Desierto Dorado 7774,Hidalgo,Frío,Lago,239,548
+Cascada Escondida 2602,Sonora,Cálido,Desierto,68,825
+Cascada Escondida 5120,Chiapas,Húmedo,Playa,380,321
+Bosque de Niebla 4397,Oaxaca,Seco,Isla,327,161
+Río Cristalino 2000,Sonora,Seco,Playa,35,814
+Río Cristalino 1745,Chiapas,Frío,Lago,322,515
+Valle Encantado 5007,Veracruz,Frío,Playa,307,418
+Valle Encantado 6889,Chihuahua,Seco,Isla,262,818
+Laguna Azul 4679,Chiapas,Frío,Montaña,115,937
+Montaña Mágica 3410,Jalisco,Cálido,Montaña,41,418
+Playa Paraíso 7962,Sonora,Seco,Isla,238,75
+Cascada Escondida 8137,Hidalgo,Frío,Isla,253,141
+Montaña Mágica 7030,Hidalgo,Seco,Selva,33,922
+Laguna Azul 9778,Oaxaca,Templado,Selva,118,787
+Bosque de Niebla 8042,Hidalgo,Húmedo,Lago,301,100
+Bosque de Niebla 2205,Oaxaca,Húmedo,Valle,229,215
+Cascada Escondida 5917,Oaxaca,Templado,Lago,33,98
+Desierto Dorado 1614,Hidalgo,Seco,Isla,284,130
+Valle Encantado 122,Veracruz,Templado,Selva,149,736
+Playa Paraíso 3604,Jalisco,Seco,Desierto,265,435
+Cañón del Gigante 9744,Yucatán,Frío,Río,51,604
+Valle Encantado 8792,Jalisco,Cálido,Lago,445,858
+Valle Encantado 5052,Oaxaca,Templado,Valle,292,494
+Desierto Dorado 7064,Oaxaca,Frío,Río,368,343
+Isla del Sol 4014,Yucatán,Húmedo,Montaña,69,408
+Valle Encantado 873,Puebla,Templado,Isla,379,359
+Montaña Mágica 1687,Veracruz,Templado,Desierto,459,392
+Bosque de Niebla 2563,Oaxaca,Húmedo,Isla,467,963
+Valle Encantado 2407,Puebla,Húmedo,Valle,396,157
+Valle Encantado 4555,Hidalgo,Templado,Valle,35,421
+Valle Encantado 6428,Sonora,Cálido,Playa,261,240
+Cañón del Gigante 4232,Puebla,Seco,Lago,471,361
+Cascada Escondida 6786,Puebla,Cálido,Valle,208,467
+Desierto Dorado 7997,Chiapas,Frío,Valle,171,487
+Valle Encantado 3320,Yucatán,Seco,Playa,234,184
+Río Cristalino 5245,Jalisco,Seco,Desierto,291,137
+Montaña Mágica 497,Oaxaca,Frío,Valle,262,848
+Isla del Sol 7997,Veracruz,Seco,Valle,429,142
+Laguna Azul 3053,Chiapas,Húmedo,Lago,221,948
+Montaña Mágica 6188,Puebla,Frío,Desierto,441,960
+Cañón del Gigante 8156,Veracruz,Cálido,Valle,355,541
+Cascada Escondida 4496,Yucatán,Templado,Selva,149,847
+Playa Paraíso 1728,Jalisco,Húmedo,Lago,40,627
+Cascada Escondida 8467,Veracruz,Seco,Lago,273,405
+Playa Paraíso 2236,Yucatán,Frío,Río,458,836
+Isla del Sol 9784,Jalisco,Húmedo,Isla,405,831
+Río Cristalino 7506,Quintana Roo,Húmedo,Valle,340,324
+Montaña Mágica 34,Puebla,Cálido,Selva,357,493
+Playa Paraíso 1255,Veracruz,Húmedo,Valle,232,879
+Bosque de Niebla 6438,Chihuahua,Templado,Lago,421,66
+Valle Encantado 2508,Jalisco,Cálido,Montaña,244,845
+Desierto Dorado 6882,Chihuahua,Frío,Montaña,427,438
+Bosque de Niebla 7863,Puebla,Frío,Montaña,185,565
+Montaña Mágica 3557,Hidalgo,Frío,Playa,436,117
+Bosque de Niebla 6281,Veracruz,Seco,Lago,155,529
+Valle Encantado 3733,Quintana Roo,Templado,Valle,408,719
+Bosque de Niebla 707,Jalisco,Templado,Montaña,355,180
+Montaña Mágica 8174,Chiapas,Húmedo,Valle,138,687
+Montaña Mágica 1220,Puebla,Cálido,Lago,475,732
+Cañón del Gigante 2585,Jalisco,Cálido,Desierto,296,433
+Playa Paraíso 3949,Chiapas,Frío,Montaña,372,429
+Cañón del Gigante 2879,Chiapas,Templado,Río,477,988
+Isla del Sol 5146,Veracruz,Cálido,Montaña,247,354
+Montaña Mágica 4286,Chihuahua,Seco,Lago,179,393
+Laguna Azul 8935,Chiapas,Húmedo,Valle,227,424
+Playa Paraíso 7918,Veracruz,Seco,Valle,303,459
+Desierto Dorado 5570,Yucatán,Frío,Río,407,928
+Cascada Escondida 1324,Puebla,Frío,Río,200,789
+Bosque de Niebla 5879,Quintana Roo,Templado,Montaña,315,872
+Montaña Mágica 3889,Sonora,Seco,Río,88,465
+Cañón del Gigante 4687,Yucatán,Cálido,Desierto,256,678
+Cascada Escondida 1992,Veracruz,Seco,Valle,335,959
+Playa Paraíso 2515,Jalisco,Templado,Río,96,541
+Desierto Dorado 5020,Chiapas,Templado,Desierto,433,586
+Cañón del Gigante 3138,Yucatán,Húmedo,Desierto,464,170
+Bosque de Niebla 2801,Veracruz,Húmedo,Montaña,74,404
+Río Cristalino 6825,Yucatán,Húmedo,Lago,379,977
+Playa Paraíso 5646,Yucatán,Húmedo,Selva,114,351
+Desierto Dorado 3062,Chihuahua,Frío,Playa,213,258
+Cañón del Gigante 7859,Veracruz,Húmedo,Playa,325,996
+Cañón del Gigante 6012,Hidalgo,Húmedo,Playa,53,870
+Isla del Sol 3493,Jalisco,Cálido,Isla,261,120
+Valle Encantado 9118,Chiapas,Seco,Isla,53,795
+Valle Encantado 9073,Chihuahua,Cálido,Lago,86,468
+Isla del Sol 4384,Yucatán,Cálido,Montaña,461,724
+Playa Paraíso 458,Chiapas,Cálido,Río,36,517
+Cañón del Gigante 665,Veracruz,Cálido,Playa,268,79
+Desierto Dorado 3959,Puebla,Cálido,Montaña,403,786
+Playa Paraíso 367,Sonora,Seco,Isla,115,690
+Cañón del Gigante 3889,Chiapas,Húmedo,Río,451,317
+Río Cristalino 6954,Hidalgo,Frío,Montaña,464,185
+Desierto Dorado 5675,Veracruz,Templado,Desierto,187,331
+Cañón del Gigante 4868,Chiapas,Seco,Desierto,83,820
+Playa Paraíso 346,Chihuahua,Templado,Playa,61,770
+Playa Paraíso 6856,Quintana Roo,Frío,Lago,356,212
+Isla del Sol 8629,Jalisco,Seco,Lago,412,682
+Cañón del Gigante 9384,Chihuahua,Cálido,Desierto,141,82
+Desierto Dorado 2715,Hidalgo,Húmedo,Desierto,151,618
+Valle Encantado 6019,Quintana Roo,Templado,Lago,265,631
+Isla del Sol 3325,Veracruz,Frío,Valle,223,640
+Bosque de Niebla 312,Chiapas,Cálido,Desierto,158,954
+Playa Paraíso 2636,Veracruz,Seco,Isla,331,651
+Cascada Escondida 626,Sonora,Seco,Isla,79,644
+Cañón del Gigante 3286,Sonora,Frío,Valle,120,526
+Laguna Azul 6944,Jalisco,Cálido,Río,454,231
+Montaña Mágica 929,Veracruz,Cálido,Desierto,197,876
+Cascada Escondida 6842,Oaxaca,Cálido,Valle,317,476
+Laguna Azul 66,Jalisco,Seco,Valle,95,776
+Playa Paraíso 6144,Oaxaca,Frío,Valle,313,627
+Isla del Sol 7032,Puebla,Cálido,Valle,278,445
+Río Cristalino 4392,Hidalgo,Templado,Valle,313,708
+Valle Encantado 2503,Hidalgo,Templado,Desierto,359,479
+Playa Paraíso 48,Oaxaca,Cálido,Playa,60,1000
+Montaña Mágica 5919,Chihuahua,Cálido,Lago,393,185
+Montaña Mágica 3981,Oaxaca,Seco,Montaña,459,770
+Cañón del Gigante 2889,Veracruz,Húmedo,Río,381,774
+Valle Encantado 7485,Yucatán,Frío,Desierto,326,588
+Valle Encantado 8704,Jalisco,Húmedo,Desierto,204,784
+Desierto Dorado 9373,Jalisco,Cálido,Isla,245,475
+Río Cristalino 3553,Sonora,Templado,Selva,148,924
+Valle Encantado 4451,Chihuahua,Seco,Río,89,729
+Cascada Escondida 7116,Puebla,Cálido,Desierto,89,908
+Cascada Escondida 760,Oaxaca,Seco,Río,252,700
+Desierto Dorado 5586,Sonora,Cálido,Isla,409,759
+Isla del Sol 5785,Yucatán,Templado,Lago,93,691
+Montaña Mágica 2320,Puebla,Seco,Lago,471,460
+Cascada Escondida 5889,Puebla,Húmedo,Valle,435,968
+Cañón del Gigante 88,Hidalgo,Frío,Playa,310,269
+Desierto Dorado 9584,Chihuahua,Frío,Lago,335,776
+Río Cristalino 1278,Jalisco,Húmedo,Lago,188,509
+Playa Paraíso 3172,Quintana Roo,Seco,Montaña,42,416
+Playa Paraíso 3843,Chihuahua,Cálido,Isla,49,965
+Cascada Escondida 4585,Quintana Roo,Cálido,Río,107,869
+Bosque de Niebla 5535,Yucatán,Húmedo,Río,93,708
+Cañón del Gigante 7931,Veracruz,Templado,Desierto,428,193
+Cascada Escondida 4493,Sonora,Frío,Desierto,68,189
+Montaña Mágica 6213,Veracruz,Templado,Selva,165,805
+Montaña Mágica 815,Chiapas,Cálido,Lago,257,575
+Bosque de Niebla 9368,Sonora,Cálido,Lago,383,794
+Cañón del Gigante 3621,Sonora,Cálido,Selva,205,439
+Desierto Dorado 5787,Chiapas,Cálido,Valle,159,128
+Isla del Sol 7564,Oaxaca,Seco,Lago,97,486
+Río Cristalino 6903,Chihuahua,Seco,Selva,328,518
+Cascada Escondida 586,Sonora,Seco,Playa,121,980
+Río Cristalino 1953,Yucatán,Húmedo,Selva,131,876
+Laguna Azul 5111,Sonora,Seco,Río,221,838
+Playa Paraíso 466,Yucatán,Seco,Montaña,118,228
+Cañón del Gigante 6686,Sonora,Frío,Isla,403,587
+Desierto Dorado 9662,Hidalgo,Seco,Lago,452,101
+Bosque de Niebla 8712,Puebla,Frío,Montaña,417,887
+Laguna Azul 5821,Chiapas,Húmedo,Valle,76,324
+Bosque de Niebla 5953,Quintana Roo,Frío,Desierto,338,213
+Valle Encantado 5935,Chihuahua,Seco,Isla,219,566
+Bosque de Niebla 8686,Chiapas,Húmedo,Selva,306,572
+Laguna Azul 3141,Chihuahua,Templado,Montaña,404,142
+Bosque de Niebla 5157,Puebla,Frío,Isla,426,899
+Cañón del Gigante 1151,Hidalgo,Húmedo,Lago,424,295
+Río Cristalino 5159,Yucatán,Frío,Selva,366,101
+Desierto Dorado 8876,Sonora,Húmedo,Valle,211,989
+Cascada Escondida 1199,Yucatán,Templado,Desierto,247,846
+Valle Encantado 1974,Hidalgo,Seco,Selva,40,127
+Montaña Mágica 6058,Jalisco,Frío,Río,462,212
+Cascada Escondida 627,Puebla,Seco,Desierto,391,883
+Río Cristalino 3182,Jalisco,Seco,Valle,177,730
+Río Cristalino 5231,Veracruz,Húmedo,Playa,100,735
+Cañón del Gigante 2077,Quintana Roo,Cálido,Isla,95,202
+Cascada Escondida 7902,Jalisco,Frío,Lago,98,463
+Valle Encantado 3460,Chiapas,Cálido,Valle,399,513
+Valle Encantado 9548,Puebla,Templado,Montaña,454,220
+Cañón del Gigante 5492,Hidalgo,Frío,Desierto,275,755
+Laguna Azul 8788,Chiapas,Cálido,Isla,475,492
+Cascada Escondida 1249,Jalisco,Templado,Montaña,150,813
+Valle Encantado 9831,Oaxaca,Húmedo,Lago,62,262
+Isla del Sol 6535,Puebla,Húmedo,Playa,454,481
+Río Cristalino 2944,Oaxaca,Frío,Valle,469,91
+Playa Paraíso 151,Puebla,Seco,Playa,352,578
+Isla del Sol 8301,Puebla,Seco,Desierto,293,400
+Isla del Sol 7299,Chiapas,Seco,Selva,192,123
+Cascada Escondida 4136,Puebla,Cálido,Isla,172,221
+Desierto Dorado 5940,Puebla,Seco,Desierto,366,810
+Desierto Dorado 7388,Hidalgo,Cálido,Montaña,202,289
+Bosque de Niebla 3843,Sonora,Seco,Selva,419,454
+Valle Encantado 543,Hidalgo,Templado,Valle,162,968
+Bosque de Niebla 5201,Puebla,Frío,Desierto,270,512
+Cascada Escondida 1830,Sonora,Húmedo,Isla,468,868
+Bosque de Niebla 4020,Puebla,Cálido,Desierto,206,461
+Cascada Escondida 8857,Veracruz,Seco,Montaña,382,634
+Laguna Azul 4865,Chiapas,Frío,Lago,78,389
+Playa Paraíso 2964,Jalisco,Frío,Desierto,90,262
+Valle Encantado 9439,Yucatán,Cálido,Isla,374,418
+Desierto Dorado 6586,Oaxaca,Templado,Valle,337,402
+Playa Paraíso 5184,Hidalgo,Seco,Selva,209,757
+Bosque de Niebla 7885,Puebla,Templado,Desierto,292,478
+Laguna Azul 7619,Chiapas,Frío,Selva,259,450
+Laguna Azul 1958,Yucatán,Húmedo,Desierto,207,939
+Río Cristalino 2580,Oaxaca,Templado,Desierto,415,808
+Río Cristalino 5390,Veracruz,Cálido,Valle,313,692
+Desierto Dorado 7712,Jalisco,Frío,Montaña,279,318
+Cascada Escondida 5136,Veracruz,Cálido,Río,288,259
+Desierto Dorado 8898,Puebla,Frío,Río,310,771
+Cascada Escondida 9059,Sonora,Húmedo,Playa,443,433
+Bosque de Niebla 6822,Jalisco,Seco,Desierto,88,277
+Montaña Mágica 4421,Hidalgo,Cálido,Playa,343,204
+Montaña Mágica 6365,Oaxaca,Húmedo,Montaña,269,772
+Isla del Sol 267,Jalisco,Seco,Isla,168,368
+Valle Encantado 918,Puebla,Templado,Selva,52,393
+Isla del Sol 746,Hidalgo,Templado,Montaña,155,539
+Montaña Mágica 2815,Chiapas,Seco,Playa,82,302
+Laguna Azul 1910,Yucatán,Templado,Lago,69,855
+Valle Encantado 3675,Yucatán,Húmedo,Playa,127,401
+Río Cristalino 1329,Sonora,Templado,Isla,69,998
+Isla del Sol 8500,Quintana Roo,Templado,Valle,61,107
+Laguna Azul 1695,Yucatán,Cálido,Montaña,213,846
+Desierto Dorado 8737,Chihuahua,Húmedo,Montaña,372,309
+Bosque de Niebla 8443,Oaxaca,Templado,Río,260,554
+Cañón del Gigante 9228,Hidalgo,Templado,Lago,156,576
+Valle Encantado 3559,Jalisco,Templado,Río,84,586
+Cascada Escondida 4255,Sonora,Cálido,Valle,163,417
+Valle Encantado 3297,Quintana Roo,Seco,Lago,283,242
+Cascada Escondida 8381,Oaxaca,Húmedo,Isla,370,858
+Laguna Azul 8941,Oaxaca,Cálido,Selva,345,792
+Río Cristalino 8975,Veracruz,Seco,Selva,312,238
+Río Cristalino 828,Hidalgo,Cálido,Montaña,203,421
+Cañón del Gigante 8224,Hidalgo,Seco,Valle,274,560
+Bosque de Niebla 4942,Veracruz,Seco,Lago,129,774
+Desierto Dorado 2226,Puebla,Frío,Río,132,480
+Laguna Azul 8983,Chihuahua,Seco,Lago,180,175
+Isla del Sol 1675,Oaxaca,Cálido,Playa,282,143
+Valle Encantado 9130,Sonora,Húmedo,Valle,390,70
+Río Cristalino 7655,Veracruz,Cálido,Valle,128,551
+Playa Paraíso 7324,Sonora,Húmedo,Lago,394,180
+Isla del Sol 9078,Veracruz,Seco,Montaña,211,618
+Río Cristalino 7338,Oaxaca,Seco,Selva,431,307
+Bosque de Niebla 1490,Chiapas,Húmedo,Selva,221,279
+Desierto Dorado 8793,Yucatán,Frío,Playa,170,833
+Cañón del Gigante 9491,Chiapas,Seco,Montaña,178,511
+Playa Paraíso 8196,Chiapas,Cálido,Playa,306,645
+Desierto Dorado 5196,Yucatán,Cálido,Montaña,432,822
+Río Cristalino 3432,Veracruz,Templado,Montaña,64,199
+Isla del Sol 3096,Oaxaca,Cálido,Playa,223,305
+Valle Encantado 7414,Puebla,Seco,Selva,426,132
+Desierto Dorado 3809,Quintana Roo,Seco,Río,438,164
+Desierto Dorado 6902,Quintana Roo,Cálido,Playa,59,435
+Laguna Azul 4061,Oaxaca,Cálido,Río,386,672
+Cañón del Gigante 9595,Jalisco,Húmedo,Río,271,838
+Playa Paraíso 3326,Oaxaca,Seco,Playa,426,946
+Desierto Dorado 490,Oaxaca,Húmedo,Valle,300,860
+Isla del Sol 8579,Puebla,Seco,Selva,281,567
+Valle Encantado 61,Chihuahua,Frío,Isla,224,211
+Playa Paraíso 6993,Quintana Roo,Templado,Desierto,163,271
+Cascada Escondida 985,Jalisco,Templado,Desierto,409,593
+Río Cristalino 2697,Puebla,Seco,Río,188,800
+Montaña Mágica 6257,Veracruz,Frío,Isla,444,690
+Laguna Azul 2881,Puebla,Seco,Playa,181,81
+Río Cristalino 7702,Puebla,Frío,Montaña,77,730
+Cascada Escondida 4567,Hidalgo,Húmedo,Selva,264,76
+Laguna Azul 1725,Sonora,Húmedo,Playa,276,235
+Cascada Escondida 5813,Veracruz,Seco,Lago,202,560
+Desierto Dorado 7717,Jalisco,Seco,Río,429,79
+Río Cristalino 5029,Sonora,Cálido,Valle,32,483
+Río Cristalino 4084,Yucatán,Seco,Selva,218,106
+Laguna Azul 3310,Yucatán,Templado,Río,462,164
+Playa Paraíso 606,Jalisco,Seco,Lago,332,778
+Isla del Sol 5658,Sonora,Templado,Playa,158,762
+Montaña Mágica 1087,Jalisco,Cálido,Isla,130,978
+Isla del Sol 1814,Puebla,Seco,Isla,448,980
+Cañón del Gigante 791,Puebla,Frío,Selva,237,744
+Isla del Sol 7356,Jalisco,Húmedo,Selva,117,524
+Montaña Mágica 2741,Quintana Roo,Templado,Lago,105,354
+Montaña Mágica 4185,Chihuahua,Cálido,Lago,253,826
+Laguna Azul 4462,Veracruz,Cálido,Playa,133,918
+Playa Paraíso 2957,Puebla,Frío,Selva,279,191
+Playa Paraíso 7844,Yucatán,Frío,Playa,151,419
+Laguna Azul 7393,Hidalgo,Templado,Río,321,752
+Valle Encantado 2491,Chiapas,Seco,Lago,390,88
+Montaña Mágica 6128,Chiapas,Frío,Montaña,440,310
+Bosque de Niebla 4517,Oaxaca,Frío,Desierto,279,670
+Cañón del Gigante 6490,Oaxaca,Seco,Río,63,786
+Laguna Azul 4019,Chihuahua,Templado,Selva,52,387
+Bosque de Niebla 2260,Chiapas,Cálido,Río,361,874
+Playa Paraíso 6973,Hidalgo,Húmedo,Río,59,154
+Isla del Sol 4117,Puebla,Templado,Desierto,399,83
+Isla del Sol 7006,Oaxaca,Seco,Desierto,102,805
+Desierto Dorado 7765,Yucatán,Cálido,Montaña,456,868
+Isla del Sol 8221,Chiapas,Seco,Río,204,667
+Montaña Mágica 3579,Chiapas,Cálido,Selva,323,197
+Desierto Dorado 8608,Oaxaca,Templado,Desierto,127,647
+Valle Encantado 8491,Veracruz,Cálido,Desierto,207,483
+Cascada Escondida 2861,Sonora,Templado,Lago,326,933
+Laguna Azul 164,Quintana Roo,Seco,Selva,162,986
+Laguna Azul 9104,Sonora,Templado,Montaña,123,279
+Río Cristalino 6040,Jalisco,Seco,Desierto,118,868
+Playa Paraíso 5930,Yucatán,Templado,Río,208,691
+Laguna Azul 8912,Chihuahua,Húmedo,Montaña,76,529
+Laguna Azul 6268,Jalisco,Templado,Valle,40,746
+Río Cristalino 1744,Sonora,Seco,Río,94,683
+Playa Paraíso 4286,Oaxaca,Húmedo,Montaña,55,441
+Playa Paraíso 3375,Jalisco,Cálido,Isla,42,895
+Cascada Escondida 5835,Quintana Roo,Cálido,Selva,99,672
+Bosque de Niebla 8597,Oaxaca,Templado,Montaña,144,626
+Bosque de Niebla 9359,Oaxaca,Seco,Desierto,392,595
+Río Cristalino 9597,Chihuahua,Cálido,Río,77,895
+Valle Encantado 6208,Hidalgo,Cálido,Río,281,889
+Desierto Dorado 4987,Veracruz,Templado,Playa,88,226
+Bosque de Niebla 7026,Veracruz,Cálido,Desierto,162,801
+Bosque de Niebla 5211,Veracruz,Frío,Lago,443,434
+Isla del Sol 8633,Sonora,Húmedo,Río,192,502
+Valle Encantado 3948,Yucatán,Húmedo,Playa,459,424
+Montaña Mágica 949,Jalisco,Húmedo,Selva,30,958
+Río Cristalino 9328,Oaxaca,Templado,Isla,252,398
+Río Cristalino 5520,Quintana Roo,Húmedo,Desierto,143,992
+Laguna Azul 3273,Oaxaca,Templado,Desierto,143,467
+Laguna Azul 7404,Veracruz,Seco,Desierto,377,329
+Río Cristalino 1196,Chihuahua,Frío,Montaña,389,178
+Montaña Mágica 3153,Chihuahua,Frío,Isla,410,593
+Playa Paraíso 974,Chihuahua,Cálido,Lago,134,437
+Valle Encantado 4497,Chiapas,Frío,Playa,365,149
+Cañón del Gigante 4032,Oaxaca,Seco,Isla,464,280
+Playa Paraíso 5017,Quintana Roo,Cálido,Montaña,170,166
+Cañón del Gigante 2033,Puebla,Templado,Río,105,438
+Playa Paraíso 6923,Oaxaca,Cálido,Montaña,463,524
+Montaña Mágica 9118,Yucatán,Seco,Río,302,862
+Playa Paraíso 4464,Jalisco,Frío,Valle,379,218
+Isla del Sol 6642,Oaxaca,Templado,Isla,458,123
+Montaña Mágica 3267,Sonora,Seco,Isla,356,825
+Cascada Escondida 3851,Chiapas,Templado,Montaña,343,909
+Valle Encantado 9593,Puebla,Frío,Isla,425,92
+Isla del Sol 926,Jalisco,Seco,Isla,408,337
+Río Cristalino 9836,Oaxaca,Frío,Selva,303,922
+Isla del Sol 3705,Jalisco,Frío,Playa,233,739
+Bosque de Niebla 5577,Sonora,Húmedo,Valle,121,948
+Bosque de Niebla 5615,Yucatán,Húmedo,Lago,94,938
+Cascada Escondida 8801,Veracruz,Frío,Playa,102,733
+Valle Encantado 9072,Chihuahua,Frío,Playa,407,868
+Río Cristalino 8320,Puebla,Seco,Isla,336,399
+Isla del Sol 1716,Puebla,Templado,Montaña,201,825
+Isla del Sol 5601,Hidalgo,Templado,Isla,401,539
+Río Cristalino 6914,Quintana Roo,Templado,Río,164,728
+Bosque de Niebla 5951,Oaxaca,Frío,Playa,153,814
+Valle Encantado 1916,Veracruz,Cálido,Playa,158,990
+Montaña Mágica 6769,Veracruz,Seco,Lago,288,899
+Bosque de Niebla 3015,Sonora,Húmedo,Montaña,233,445
+Laguna Azul 7782,Jalisco,Cálido,Río,313,90
+Río Cristalino 171,Chiapas,Templado,Río,141,681
+Valle Encantado 4011,Jalisco,Húmedo,Río,187,587
+Bosque de Niebla 6679,Veracruz,Cálido,Río,480,763
+Isla del Sol 1923,Veracruz,Templado,Isla,266,797
+Valle Encantado 639,Chihuahua,Frío,Valle,290,960
+Cañón del Gigante 6728,Chiapas,Seco,Isla,406,814
+Cascada Escondida 9476,Jalisco,Templado,Lago,359,812
+Valle Encantado 1547,Chihuahua,Frío,Río,218,183
+Desierto Dorado 9790,Oaxaca,Seco,Lago,399,971
+Isla del Sol 7187,Quintana Roo,Cálido,Valle,257,186
+Bosque de Niebla 2788,Quintana Roo,Frío,Lago,244,918
+Río Cristalino 2802,Veracruz,Templado,Lago,91,463
+Río Cristalino 2461,Sonora,Frío,Montaña,405,951
+Laguna Azul 8044,Oaxaca,Templado,Río,52,331
+Montaña Mágica 2744,Puebla,Templado,Desierto,365,255
+Río Cristalino 2264,Puebla,Cálido,Playa,77,528
+Desierto Dorado 9482,Hidalgo,Húmedo,Isla,464,255
+Río Cristalino 9670,Quintana Roo,Seco,Valle,326,954
+Valle Encantado 3066,Sonora,Templado,Playa,231,576
+Cascada Escondida 7243,Sonora,Templado,Isla,419,885
+Montaña Mágica 5997,Quintana Roo,Frío,Lago,322,909
+Río Cristalino 2184,Hidalgo,Templado,Montaña,456,570
+Desierto Dorado 5886,Veracruz,Templado,Río,310,645
+Isla del Sol 6916,Oaxaca,Frío,Río,120,712
+Montaña Mágica 7078,Oaxaca,Húmedo,Isla,213,540
+Río Cristalino 1525,Hidalgo,Húmedo,Montaña,472,94
+Laguna Azul 8021,Chiapas,Frío,Montaña,463,173
+Laguna Azul 9037,Chiapas,Frío,Valle,106,633
+Laguna Azul 1148,Jalisco,Húmedo,Isla,440,479
+Río Cristalino 133,Chihuahua,Seco,Valle,318,430
+Cañón del Gigante 3548,Chihuahua,Seco,Lago,437,313
+Montaña Mágica 681,Chiapas,Frío,Selva,358,411
+Cascada Escondida 4346,Oaxaca,Húmedo,Desierto,348,852
+Cascada Escondida 714,Veracruz,Seco,Selva,381,54
+Bosque de Niebla 9527,Veracruz,Templado,Lago,348,636
+Cañón del Gigante 4347,Chiapas,Templado,Lago,311,758
+Desierto Dorado 1005,Hidalgo,Seco,Valle,83,269
+Laguna Azul 2140,Jalisco,Templado,Montaña,338,591
+Laguna Azul 1850,Quintana Roo,Seco,Desierto,191,819
+Laguna Azul 802,Quintana Roo,Frío,Montaña,362,708
+Isla del Sol 9569,Puebla,Frío,Río,131,805
+Valle Encantado 877,Oaxaca,Frío,Selva,240,650
+Cañón del Gigante 7274,Quintana Roo,Templado,Montaña,69,734
+Valle Encantado 6972,Yucatán,Seco,Río,422,599
+Bosque de Niebla 772,Veracruz,Seco,Playa,233,716
+Bosque de Niebla 1482,Oaxaca,Seco,Lago,51,974
+Río Cristalino 2823,Hidalgo,Frío,Río,228,902
+Desierto Dorado 4585,Quintana Roo,Seco,Playa,171,742
+Cascada Escondida 3042,Chihuahua,Seco,Isla,468,898
+Desierto Dorado 4205,Oaxaca,Cálido,Río,127,520
+Isla del Sol 8438,Hidalgo,Seco,Valle,106,663
+Cascada Escondida 7053,Hidalgo,Seco,Montaña,335,946
+Río Cristalino 4136,Quintana Roo,Seco,Selva,465,92
+Valle Encantado 5580,Hidalgo,Húmedo,Desierto,348,906
+Laguna Azul 4676,Veracruz,Húmedo,Selva,462,718
+Desierto Dorado 6622,Chihuahua,Húmedo,Desierto,431,859
+Valle Encantado 4157,Veracruz,Húmedo,Playa,415,510
+Cañón del Gigante 4416,Yucatán,Frío,Selva,188,500
+Cañón del Gigante 1778,Puebla,Seco,Valle,103,462
+Cañón del Gigante 8148,Hidalgo,Frío,Valle,161,249
+Río Cristalino 5737,Veracruz,Cálido,Río,66,768
+Montaña Mágica 7247,Puebla,Seco,Montaña,371,278
+Valle Encantado 3907,Jalisco,Frío,Desierto,116,114
+Laguna Azul 6613,Hidalgo,Cálido,Selva,232,728
+Desierto Dorado 2134,Hidalgo,Húmedo,Lago,375,395
+Isla del Sol 1125,Puebla,Seco,Lago,337,221
+Cascada Escondida 711,Jalisco,Templado,Valle,436,611
+Cascada Escondida 8309,Sonora,Húmedo,Playa,243,939
+Cañón del Gigante 3471,Puebla,Cálido,Desierto,173,420
+Isla del Sol 3663,Veracruz,Frío,Montaña,128,187
+Laguna Azul 3009,Chiapas,Húmedo,Montaña,159,256
+Cascada Escondida 1463,Quintana Roo,Seco,Selva,381,404
+Desierto Dorado 723,Puebla,Cálido,Valle,359,532
+Valle Encantado 4133,Veracruz,Seco,Montaña,154,687
+Río Cristalino 9148,Chiapas,Seco,Selva,165,164
+Isla del Sol 3359,Sonora,Frío,Isla,322,953
+Río Cristalino 4492,Sonora,Seco,Selva,55,111
+Montaña Mágica 7098,Chiapas,Frío,Isla,430,510
+Río Cristalino 692,Jalisco,Frío,Desierto,47,562
+Valle Encantado 7261,Chiapas,Húmedo,Isla,126,830
+Desierto Dorado 7583,Jalisco,Seco,Desierto,352,359
+Laguna Azul 9362,Veracruz,Húmedo,Isla,295,323
+Laguna Azul 6936,Oaxaca,Seco,Selva,357,862
+Isla del Sol 5429,Jalisco,Templado,Isla,188,72
+Montaña Mágica 6463,Puebla,Húmedo,Valle,381,422
+Isla del Sol 9,Veracruz,Seco,Playa,473,710
+Río Cristalino 4833,Puebla,Frío,Río,76,93
+Isla del Sol 6381,Oaxaca,Húmedo,Río,446,238
+Playa Paraíso 6543,Quintana Roo,Templado,Lago,425,362
+Bosque de Niebla 8563,Jalisco,Húmedo,Valle,203,718
+Bosque de Niebla 8394,Chihuahua,Cálido,Playa,447,161
+Playa Paraíso 7590,Chihuahua,Cálido,Valle,188,590
+Isla del Sol 9736,Veracruz,Cálido,Lago,88,897
+Isla del Sol 1948,Sonora,Templado,Selva,342,771
+Isla del Sol 8111,Quintana Roo,Húmedo,Valle,132,560
+Río Cristalino 2351,Chiapas,Cálido,Lago,382,74
+Valle Encantado 64,Puebla,Húmedo,Lago,353,869
+Valle Encantado 3713,Oaxaca,Húmedo,Valle,383,370
+Bosque de Niebla 4288,Chiapas,Húmedo,Desierto,162,884
+Montaña Mágica 595,Sonora,Templado,Valle,408,112
+Desierto Dorado 446,Quintana Roo,Húmedo,Montaña,292,881
+Valle Encantado 1295,Quintana Roo,Cálido,Selva,353,160
+Playa Paraíso 1627,Yucatán,Frío,Selva,175,528
+Montaña Mágica 2966,Hidalgo,Seco,Montaña,241,687
+Río Cristalino 3320,Puebla,Húmedo,Isla,392,645
+Montaña Mágica 143,Yucatán,Templado,Lago,30,918
+Playa Paraíso 3785,Chihuahua,Seco,Río,403,89
+Bosque de Niebla 5639,Chiapas,Frío,Selva,410,818
+Río Cristalino 2840,Chiapas,Templado,Desierto,209,775
+Río Cristalino 411,Quintana Roo,Seco,Playa,194,636
+Cascada Escondida 4996,Puebla,Seco,Río,120,70
+Isla del Sol 2804,Chihuahua,Cálido,Selva,33,94
+Desierto Dorado 6231,Veracruz,Húmedo,Playa,203,571
+Bosque de Niebla 4683,Hidalgo,Templado,Lago,328,316
+Cascada Escondida 6676,Chihuahua,Húmedo,Lago,288,316
+Isla del Sol 2406,Veracruz,Seco,Río,255,795
+Bosque de Niebla 7436,Jalisco,Cálido,Playa,331,586
+Valle Encantado 5674,Quintana Roo,Húmedo,Río,386,783
+Valle Encantado 6350,Sonora,Seco,Montaña,187,147
+Bosque de Niebla 988,Puebla,Frío,Playa,137,992
+Cañón del Gigante 1040,Chiapas,Seco,Selva,405,313
+Playa Paraíso 8861,Chihuahua,Cálido,Río,374,380
+Cascada Escondida 9500,Sonora,Cálido,Montaña,79,170
+Desierto Dorado 7479,Chihuahua,Húmedo,Desierto,291,778
+Cañón del Gigante 6595,Yucatán,Seco,Montaña,159,293
+Cascada Escondida 89,Hidalgo,Cálido,Selva,147,106
+Río Cristalino 3802,Hidalgo,Frío,Río,92,128
+Cascada Escondida 7849,Sonora,Húmedo,Montaña,57,953
+Montaña Mágica 274,Chiapas,Templado,Valle,79,613
+Bosque de Niebla 3505,Chihuahua,Húmedo,Playa,90,596
+Isla del Sol 4037,Puebla,Frío,Desierto,156,228
+Laguna Azul 789,Sonora,Seco,Desierto,292,331
+Cascada Escondida 2787,Quintana Roo,Húmedo,Desierto,160,835
+Montaña Mágica 8281,Jalisco,Cálido,Isla,125,305
+Valle Encantado 6069,Puebla,Húmedo,Isla,135,818
+Bosque de Niebla 2400,Veracruz,Frío,Playa,84,244
+Valle Encantado 5865,Jalisco,Húmedo,Isla,454,779
+Río Cristalino 2895,Yucatán,Templado,Lago,270,859
+Isla del Sol 8911,Veracruz,Seco,Río,169,941
+Laguna Azul 2867,Yucatán,Cálido,Playa,41,99
+Montaña Mágica 348,Hidalgo,Seco,Playa,283,85
+Playa Paraíso 719,Chiapas,Frío,Isla,138,321
+Bosque de Niebla 6832,Chiapas,Templado,Playa,113,257
+Valle Encantado 4198,Hidalgo,Frío,Desierto,345,216
+Desierto Dorado 5628,Chihuahua,Frío,Río,436,560
+Desierto Dorado 9789,Quintana Roo,Húmedo,Playa,216,165
+Desierto Dorado 5860,Chihuahua,Cálido,Selva,177,142
+Playa Paraíso 9148,Sonora,Seco,Isla,181,562
+Montaña Mágica 6750,Chiapas,Cálido,Selva,210,706
+Cañón del Gigante 2050,Sonora,Húmedo,Playa,384,143
+Montaña Mágica 6470,Jalisco,Seco,Playa,305,455
+Desierto Dorado 8752,Oaxaca,Seco,Isla,275,547
+Desierto Dorado 3299,Jalisco,Húmedo,Playa,354,340
+Bosque de Niebla 4273,Chihuahua,Templado,Isla,368,135
+Valle Encantado 9523,Chihuahua,Húmedo,Valle,177,237
+Cascada Escondida 9451,Chiapas,Húmedo,Desierto,184,350
+Laguna Azul 9654,Veracruz,Frío,Desierto,201,737
+Cascada Escondida 3204,Sonora,Húmedo,Lago,88,879
+Río Cristalino 6391,Sonora,Templado,Lago,88,873
+Cascada Escondida 9712,Quintana Roo,Cálido,Isla,113,760
+Laguna Azul 5014,Sonora,Frío,Río,216,642
+Montaña Mágica 36,Oaxaca,Templado,Isla,84,314
+Desierto Dorado 4084,Sonora,Cálido,Selva,106,833
+Río Cristalino 862,Yucatán,Frío,Valle,80,389
+Río Cristalino 8852,Chiapas,Frío,Isla,84,889
+Isla del Sol 9089,Chihuahua,Frío,Isla,473,903
+Montaña Mágica 5303,Oaxaca,Templado,Selva,147,718
+Desierto Dorado 8190,Puebla,Húmedo,Playa,311,712
+Cascada Escondida 4783,Puebla,Frío,Montaña,78,749
+Cañón del Gigante 4336,Chihuahua,Frío,Playa,445,485
+Playa Paraíso 3487,Veracruz,Seco,Isla,366,64
+Cascada Escondida 3053,Chiapas,Templado,Valle,145,627
+Bosque de Niebla 2332,Chiapas,Seco,Playa,96,77
+Valle Encantado 6259,Chihuahua,Templado,Selva,32,799
+Laguna Azul 4622,Quintana Roo,Húmedo,Lago,282,784
+Isla del Sol 5202,Chihuahua,Húmedo,Río,372,613
+Cascada Escondida 8439,Jalisco,Húmedo,Selva,387,272
+Bosque de Niebla 4901,Quintana Roo,Seco,Isla,131,262
+Río Cristalino 1682,Puebla,Cálido,Isla,288,700
+Playa Paraíso 676,Chiapas,Frío,Isla,276,252
+Valle Encantado 6891,Hidalgo,Seco,Selva,237,904
+Cascada Escondida 5419,Puebla,Cálido,Río,193,584
+Playa Paraíso 9307,Oaxaca,Cálido,Valle,209,113
+Cascada Escondida 4157,Oaxaca,Frío,Montaña,138,278
+Cañón del Gigante 8515,Jalisco,Seco,Valle,461,651
+Cañón del Gigante 4259,Quintana Roo,Cálido,Isla,185,901
+Montaña Mágica 389,Chihuahua,Cálido,Isla,427,62
+Río Cristalino 1771,Yucatán,Frío,Desierto,299,490
+Bosque de Niebla 5362,Yucatán,Cálido,Playa,356,434
+Cascada Escondida 8681,Yucatán,Templado,Lago,231,462
+Valle Encantado 9313,Chihuahua,Cálido,Lago,474,164
+Cañón del Gigante 259,Chihuahua,Húmedo,Valle,143,387
+Bosque de Niebla 9991,Chiapas,Húmedo,Valle,117,529
+Río Cristalino 5573,Chiapas,Templado,Desierto,311,407
+Laguna Azul 3322,Puebla,Frío,Playa,390,878
+Isla del Sol 7060,Sonora,Cálido,Valle,123,944
+Cañón del Gigante 9031,Chihuahua,Seco,Río,62,189
+Cañón del Gigante 9256,Quintana Roo,Seco,Lago,38,969
+Playa Paraíso 6937,Chiapas,Templado,Playa,325,64
+Río Cristalino 2415,Jalisco,Frío,Isla,401,54
+Bosque de Niebla 2928,Oaxaca,Frío,Lago,49,228
+Laguna Azul 500,Sonora,Templado,Isla,94,825
+Río Cristalino 6963,Hidalgo,Húmedo,Río,416,259
+Desierto Dorado 6391,Chiapas,Templado,Isla,234,89
+Desierto Dorado 1433,Veracruz,Seco,Desierto,100,260
+Desierto Dorado 7377,Jalisco,Cálido,Río,347,152
+Playa Paraíso 2483,Sonora,Templado,Montaña,141,231
+Cañón del Gigante 2223,Chiapas,Frío,Río,348,556
+Isla del Sol 2721,Yucatán,Húmedo,Desierto,405,183
+Playa Paraíso 5660,Sonora,Templado,Playa,213,198
+Río Cristalino 2667,Sonora,Frío,Selva,377,283
+Cañón del Gigante 1516,Quintana Roo,Cálido,Desierto,282,559
+Cascada Escondida 1347,Veracruz,Cálido,Montaña,126,906
+Valle Encantado 9305,Yucatán,Seco,Isla,191,315
+Playa Paraíso 9212,Puebla,Frío,Desierto,220,106
+Bosque de Niebla 8238,Oaxaca,Cálido,Montaña,207,632
+Desierto Dorado 4485,Yucatán,Templado,Selva,170,616
+Río Cristalino 8579,Chihuahua,Seco,Montaña,248,218
+Montaña Mágica 7845,Yucatán,Cálido,Lago,376,591
+Laguna Azul 6275,Jalisco,Cálido,Playa,350,373
+Desierto Dorado 8688,Quintana Roo,Frío,Montaña,131,899
+Montaña Mágica 6879,Sonora,Seco,Desierto,78,373
+Laguna Azul 6569,Jalisco,Templado,Isla,155,98
+Cascada Escondida 6592,Yucatán,Cálido,Isla,120,718
+Montaña Mágica 5102,Veracruz,Húmedo,Selva,109,739
+Cascada Escondida 4941,Chiapas,Frío,Desierto,141,257
+Desierto Dorado 298,Quintana Roo,Frío,Playa,103,524
+Bosque de Niebla 9439,Yucatán,Frío,Lago,38,397
+Río Cristalino 561,Chihuahua,Seco,Desierto,266,197
+Valle Encantado 17,Chihuahua,Frío,Playa,437,638
+Playa Paraíso 650,Jalisco,Frío,Lago,119,113
+Isla del Sol 4591,Hidalgo,Húmedo,Río,437,690
+Cascada Escondida 674,Veracruz,Cálido,Isla,328,775
+Desierto Dorado 8101,Chiapas,Frío,Isla,155,716
+Laguna Azul 7392,Veracruz,Frío,Desierto,273,804
+Bosque de Niebla 1068,Veracruz,Cálido,Lago,126,559
+Bosque de Niebla 4577,Yucatán,Seco,Isla,236,563
+Isla del Sol 8834,Chiapas,Templado,Isla,298,188
+Bosque de Niebla 8200,Yucatán,Templado,Río,299,697
+Río Cristalino 5561,Chiapas,Templado,Desierto,122,857
+Cascada Escondida 8795,Sonora,Frío,Isla,130,717
+Cascada Escondida 7857,Chiapas,Cálido,Desierto,438,195
+Isla del Sol 578,Veracruz,Frío,Selva,93,805
+Montaña Mágica 7725,Hidalgo,Húmedo,Lago,105,566
+Montaña Mágica 8770,Chiapas,Templado,Desierto,167,259
+Río Cristalino 2669,Veracruz,Húmedo,Río,173,682
+Playa Paraíso 7213,Chiapas,Templado,Selva,118,683
+Valle Encantado 5835,Yucatán,Frío,Playa,270,685
+Laguna Azul 5102,Chiapas,Seco,Río,105,194
+Montaña Mágica 8562,Hidalgo,Templado,Río,102,780
+Bosque de Niebla 5042,Jalisco,Cálido,Desierto,458,329
+Cañón del Gigante 5073,Quintana Roo,Frío,Valle,234,98
+Río Cristalino 6021,Veracruz,Frío,Desierto,325,311
+Desierto Dorado 7366,Sonora,Húmedo,Valle,311,991
+Río Cristalino 1193,Sonora,Húmedo,Desierto,341,860
+Isla del Sol 3589,Hidalgo,Cálido,Desierto,108,713
+Cascada Escondida 3047,Quintana Roo,Húmedo,Montaña,273,542
+Río Cristalino 1785,Veracruz,Seco,Playa,61,171
+Cañón del Gigante 6763,Chiapas,Seco,Río,87,938
+Río Cristalino 5363,Quintana Roo,Húmedo,Isla,305,154
+Laguna Azul 77,Jalisco,Seco,Lago,462,137
+Desierto Dorado 9098,Veracruz,Cálido,Isla,150,229
+Cañón del Gigante 561,Sonora,Húmedo,Isla,209,939
+Valle Encantado 8566,Veracruz,Frío,Valle,143,216
+Cañón del Gigante 592,Quintana Roo,Cálido,Playa,97,82
+Bosque de Niebla 5508,Jalisco,Húmedo,Lago,117,522
+Montaña Mágica 7734,Chihuahua,Cálido,Valle,410,980
+Desierto Dorado 4441,Sonora,Húmedo,Selva,86,241
+Río Cristalino 7197,Chiapas,Templado,Valle,109,945
+Playa Paraíso 6461,Quintana Roo,Seco,Selva,105,323
+Isla del Sol 1343,Veracruz,Seco,Lago,197,682
+Isla del Sol 9671,Jalisco,Seco,Playa,243,611
+Montaña Mágica 8693,Hidalgo,Cálido,Selva,478,935
+Isla del Sol 9286,Yucatán,Frío,Montaña,156,417
+Desierto Dorado 4807,Veracruz,Seco,Montaña,354,912
+Montaña Mágica 3930,Hidalgo,Húmedo,Selva,369,320
+Isla del Sol 8058,Chihuahua,Seco,Desierto,369,830
+Cascada Escondida 3695,Puebla,Húmedo,Isla,474,314
+Desierto Dorado 4123,Puebla,Templado,Playa,214,750
+Río Cristalino 2121,Oaxaca,Seco,Valle,111,433
+Bosque de Niebla 3142,Chihuahua,Seco,Isla,471,134
+Montaña Mágica 6438,Chiapas,Templado,Río,101,688
+Cascada Escondida 5410,Sonora,Seco,Playa,214,786
+Valle Encantado 5809,Puebla,Seco,Río,428,809
+Bosque de Niebla 4987,Chihuahua,Cálido,Valle,401,655
+Isla del Sol 294,Jalisco,Cálido,Desierto,85,184
+Río Cristalino 4657,Quintana Roo,Cálido,Valle,254,338
+Isla del Sol 3190,Chihuahua,Seco,Montaña,451,424
+Montaña Mágica 7849,Puebla,Templado,Montaña,60,345
+Playa Paraíso 2454,Chiapas,Seco,Playa,159,634
+Valle Encantado 1020,Oaxaca,Templado,Desierto,458,920
+Playa Paraíso 8380,Chihuahua,Seco,Desierto,197,459
+Bosque de Niebla 2466,Yucatán,Seco,Playa,325,157
+Laguna Azul 7409,Jalisco,Cálido,Valle,348,369
+Playa Paraíso 2605,Chihuahua,Seco,Desierto,328,63
+Río Cristalino 3238,Chihuahua,Cálido,Valle,468,720
+Cañón del Gigante 1412,Hidalgo,Frío,Playa,439,499
+Desierto Dorado 1253,Hidalgo,Húmedo,Río,444,486
+Cañón del Gigante 8212,Puebla,Húmedo,Lago,64,922
+Isla del Sol 8120,Yucatán,Frío,Desierto,293,472
+Cascada Escondida 348,Veracruz,Templado,Selva,128,613
+Cascada Escondida 5303,Hidalgo,Templado,Lago,223,959
+Playa Paraíso 3067,Oaxaca,Seco,Montaña,93,130
+Valle Encantado 6395,Jalisco,Cálido,Montaña,462,147
+Playa Paraíso 3009,Sonora,Seco,Isla,75,574
+Playa Paraíso 8411,Chihuahua,Cálido,Montaña,295,302
+Cañón del Gigante 3969,Jalisco,Templado,Selva,315,255
+Cascada Escondida 4576,Puebla,Templado,Lago,137,133
+Río Cristalino 921,Yucatán,Templado,Lago,211,850
+Valle Encantado 1994,Sonora,Frío,Lago,302,718
+Río Cristalino 2566,Jalisco,Húmedo,Playa,170,784
+Montaña Mágica 4387,Puebla,Húmedo,Río,313,390
+Cañón del Gigante 3563,Oaxaca,Húmedo,Playa,376,480
+Isla del Sol 6232,Chiapas,Seco,Lago,322,241
+Cascada Escondida 3311,Hidalgo,Templado,Montaña,87,610
+Playa Paraíso 9366,Jalisco,Templado,Isla,308,566
+Playa Paraíso 926,Veracruz,Seco,Playa,201,180
+Laguna Azul 6617,Hidalgo,Seco,Desierto,453,779
+Montaña Mágica 5203,Hidalgo,Cálido,Montaña,72,326
+Laguna Azul 6334,Yucatán,Cálido,Río,97,390
+Cascada Escondida 32,Chihuahua,Frío,Lago,131,347
+Laguna Azul 7142,Chihuahua,Húmedo,Lago,360,975
+Valle Encantado 6303,Yucatán,Húmedo,Valle,325,888
+Valle Encantado 1796,Quintana Roo,Húmedo,Isla,406,872
+Isla del Sol 7432,Hidalgo,Templado,Desierto,473,431
+Bosque de Niebla 8845,Chihuahua,Seco,Montaña,391,939
+Cascada Escondida 635,Chihuahua,Templado,Lago,405,879
+Cascada Escondida 5887,Sonora,Templado,Desierto,80,191
+Valle Encantado 7712,Oaxaca,Seco,Desierto,245,156
+Montaña Mágica 6042,Quintana Roo,Cálido,Isla,52,494
+Desierto Dorado 4466,Chihuahua,Frío,Montaña,128,100
+Desierto Dorado 6436,Yucatán,Frío,Lago,224,503
+Río Cristalino 5871,Sonora,Seco,Lago,357,467
+Cascada Escondida 5713,Puebla,Húmedo,Desierto,147,557
+Playa Paraíso 8983,Puebla,Templado,Isla,388,939
+Laguna Azul 6285,Chihuahua,Cálido,Selva,118,931
+Laguna Azul 1202,Puebla,Seco,Playa,301,112
+Isla del Sol 3853,Quintana Roo,Frío,Playa,232,444
+Montaña Mágica 12,Jalisco,Seco,Isla,331,442
+Río Cristalino 7329,Hidalgo,Cálido,Desierto,389,751
+Valle Encantado 9483,Chihuahua,Seco,Desierto,105,645
+Playa Paraíso 3165,Yucatán,Húmedo,Desierto,315,220
+Cascada Escondida 9146,Puebla,Frío,Isla,388,250
+Isla del Sol 7970,Chiapas,Seco,Lago,114,955
+Isla del Sol 8495,Quintana Roo,Frío,Desierto,248,710
+Laguna Azul 8233,Puebla,Templado,Isla,227,263
+Bosque de Niebla 6526,Oaxaca,Seco,Selva,78,724
+Isla del Sol 9891,Chiapas,Húmedo,Lago,426,497
+Río Cristalino 9423,Quintana Roo,Frío,Lago,336,602
+Valle Encantado 9105,Hidalgo,Húmedo,Valle,201,807
+Bosque de Niebla 9999,Quintana Roo,Húmedo,Isla,59,956
+Desierto Dorado 2207,Jalisco,Seco,Isla,278,694
+Río Cristalino 2609,Oaxaca,Frío,Lago,379,344
+Desierto Dorado 5212,Yucatán,Frío,Río,273,85
+Bosque de Niebla 5193,Sonora,Frío,Valle,215,464
+Cascada Escondida 8123,Puebla,Templado,Playa,137,893
+Playa Paraíso 8395,Sonora,Cálido,Lago,125,619
+Laguna Azul 4397,Chiapas,Húmedo,Desierto,113,537
+Laguna Azul 6661,Sonora,Húmedo,Montaña,283,905
+Río Cristalino 6262,Veracruz,Cálido,Selva,202,702
+Cañón del Gigante 2001,Oaxaca,Seco,Isla,445,984
+Laguna Azul 9997,Yucatán,Húmedo,Valle,274,293
+Laguna Azul 565,Oaxaca,Húmedo,Selva,461,561
+Cascada Escondida 6895,Yucatán,Frío,Río,325,232
+Montaña Mágica 93,Sonora,Templado,Río,147,881
+Laguna Azul 9129,Oaxaca,Seco,Desierto,167,62
+Montaña Mágica 3263,Hidalgo,Templado,Lago,253,157
+Desierto Dorado 1461,Oaxaca,Cálido,Desierto,174,938
+Isla del Sol 9339,Quintana Roo,Frío,Playa,271,467
+Cañón del Gigante 3795,Hidalgo,Húmedo,Lago,89,307
+Desierto Dorado 7016,Sonora,Frío,Desierto,171,467
+Montaña Mágica 4632,Chiapas,Seco,Isla,416,757
+Montaña Mágica 2846,Veracruz,Templado,Playa,42,864
+Cañón del Gigante 6092,Yucatán,Frío,Lago,249,990
+Isla del Sol 5158,Veracruz,Frío,Selva,226,663
+Cañón del Gigante 3277,Quintana Roo,Cálido,Lago,114,223
+Valle Encantado 67,Chiapas,Húmedo,Desierto,71,174
+Cañón del Gigante 7857,Oaxaca,Húmedo,Río,424,970
+Cascada Escondida 4948,Sonora,Templado,Isla,284,882
+Isla del Sol 7393,Puebla,Húmedo,Desierto,462,597
+Bosque de Niebla 3780,Chiapas,Seco,Selva,415,182
+Montaña Mágica 954,Yucatán,Templado,Montaña,385,450
+Río Cristalino 2738,Chihuahua,Templado,Isla,138,747
+Isla del Sol 4796,Puebla,Frío,Río,342,949
+Bosque de Niebla 4811,Sonora,Cálido,Valle,134,320
+Río Cristalino 139,Quintana Roo,Cálido,Desierto,197,724
+Playa Paraíso 4593,Oaxaca,Templado,Selva,351,594
+Montaña Mágica 5696,Hidalgo,Templado,Selva,74,638
+Río Cristalino 6947,Hidalgo,Templado,Lago,102,587
+Laguna Azul 364,Chihuahua,Templado,Río,193,757
+Montaña Mágica 2389,Hidalgo,Frío,Desierto,368,364
+Montaña Mágica 7565,Yucatán,Templado,Río,90,266
+Valle Encantado 6824,Sonora,Seco,Río,82,370
+Valle Encantado 9636,Puebla,Seco,Playa,363,921
+Valle Encantado 1834,Oaxaca,Húmedo,Selva,421,864
+Isla del Sol 1800,Oaxaca,Húmedo,Lago,373,977
+Playa Paraíso 8138,Jalisco,Cálido,Desierto,196,281
+Cascada Escondida 2830,Puebla,Frío,Desierto,229,55
+Cañón del Gigante 348,Chiapas,Seco,Lago,81,479
+Montaña Mágica 2822,Chihuahua,Seco,Lago,221,572
+Playa Paraíso 5232,Quintana Roo,Templado,Playa,434,345
+Montaña Mágica 1744,Hidalgo,Frío,Montaña,397,614
+Montaña Mágica 8969,Chiapas,Cálido,Lago,325,898
+Isla del Sol 2591,Hidalgo,Húmedo,Lago,219,907
+Cañón del Gigante 1853,Sonora,Húmedo,Playa,319,343
+Río Cristalino 77,Yucatán,Húmedo,Isla,68,417
+Cascada Escondida 1662,Veracruz,Húmedo,Lago,319,695
+Cañón del Gigante 4464,Sonora,Templado,Desierto,446,906
+Montaña Mágica 9823,Chihuahua,Cálido,Río,279,84
+Laguna Azul 4948,Yucatán,Frío,Isla,238,318
+Isla del Sol 5795,Puebla,Húmedo,Lago,304,311
+Valle Encantado 305,Chiapas,Seco,Río,64,258
+Río Cristalino 332,Yucatán,Templado,Playa,447,505
+Cañón del Gigante 1839,Chiapas,Húmedo,Playa,463,484
+Isla del Sol 8471,Oaxaca,Templado,Valle,257,503
+Playa Paraíso 6348,Yucatán,Húmedo,Lago,426,588
+Playa Paraíso 4596,Veracruz,Templado,Río,193,120
+Cañón del Gigante 4460,Jalisco,Templado,Lago,210,220
+Playa Paraíso 8165,Sonora,Cálido,Playa,65,654
+Playa Paraíso 326,Chihuahua,Templado,Valle,393,664
+Bosque de Niebla 277,Jalisco,Cálido,Lago,412,958
+Valle Encantado 7643,Oaxaca,Seco,Desierto,73,972
+Desierto Dorado 7992,Chihuahua,Seco,Desierto,58,704
+Cascada Escondida 962,Sonora,Húmedo,Valle,292,411
+Cascada Escondida 6888,Sonora,Seco,Playa,131,229
+Cañón del Gigante 6648,Veracruz,Frío,Valle,209,273
+Cañón del Gigante 6256,Chihuahua,Húmedo,Montaña,422,894
+Bosque de Niebla 5610,Jalisco,Templado,Desierto,70,456
+Playa Paraíso 4814,Chiapas,Templado,Lago,233,859
+Playa Paraíso 4551,Sonora,Frío,Lago,223,189
+Cascada Escondida 4991,Chiapas,Templado,Lago,160,290
+Desierto Dorado 6247,Chiapas,Frío,Isla,378,390
+Playa Paraíso 3114,Veracruz,Templado,Isla,170,684
+Montaña Mágica 498,Veracruz,Templado,Río,336,493
+Laguna Azul 4960,Chihuahua,Templado,Montaña,392,373
+Laguna Azul 1124,Jalisco,Frío,Valle,111,484
+Cañón del Gigante 9756,Chiapas,Húmedo,Montaña,331,554
+Desierto Dorado 9605,Chihuahua,Frío,Lago,358,922
+Cañón del Gigante 2796,Chihuahua,Seco,Río,299,864
+Montaña Mágica 9922,Oaxaca,Cálido,Valle,422,792
+Montaña Mágica 5173,Jalisco,Cálido,Lago,253,831
+Valle Encantado 1301,Yucatán,Seco,Montaña,477,714
+Montaña Mágica 6526,Hidalgo,Cálido,Lago,355,525
+Bosque de Niebla 4341,Chihuahua,Frío,Desierto,113,452
+Cascada Escondida 115,Sonora,Seco,Río,226,770
+Cañón del Gigante 9528,Veracruz,Frío,Montaña,229,561
+Cascada Escondida 5373,Veracruz,Templado,Isla,149,534
+Laguna Azul 3257,Quintana Roo,Cálido,Río,268,119
+Playa Paraíso 7401,Sonora,Frío,Río,72,911
+Montaña Mágica 8304,Oaxaca,Húmedo,Lago,87,444
+Bosque de Niebla 1457,Hidalgo,Templado,Isla,461,184
+Playa Paraíso 4771,Quintana Roo,Frío,Río,466,67
+Laguna Azul 7317,Chiapas,Frío,Montaña,463,691
+Cascada Escondida 9704,Yucatán,Cálido,Playa,177,356
+Montaña Mágica 5107,Chiapas,Frío,Lago,210,671
+Playa Paraíso 8794,Quintana Roo,Cálido,Selva,412,707
+Valle Encantado 8682,Puebla,Frío,Selva,62,149
+Isla del Sol 2297,Jalisco,Húmedo,Montaña,465,819
+Bosque de Niebla 8927,Yucatán,Húmedo,Valle,325,420
+Desierto Dorado 5171,Quintana Roo,Seco,Valle,433,480
+Bosque de Niebla 7577,Quintana Roo,Frío,Desierto,238,649
+Río Cristalino 15,Veracruz,Cálido,Río,165,355
+Laguna Azul 5057,Puebla,Templado,Río,130,922
+Valle Encantado 3706,Jalisco,Seco,Desierto,451,553
+Bosque de Niebla 4650,Chihuahua,Seco,Montaña,55,136
+Valle Encantado 5151,Puebla,Cálido,Selva,343,513
+Bosque de Niebla 8007,Chihuahua,Húmedo,Montaña,142,522
+Cañón del Gigante 5882,Puebla,Frío,Valle,235,435
+Cañón del Gigante 2177,Jalisco,Frío,Selva,134,118
+Montaña Mágica 9783,Puebla,Húmedo,Selva,466,741
+Montaña Mágica 8227,Puebla,Seco,Valle,275,313
+Montaña Mágica 3108,Sonora,Húmedo,Río,163,191
+Cañón del Gigante 4099,Jalisco,Húmedo,Valle,451,243
+Cascada Escondida 493,Puebla,Templado,Río,426,149
+Playa Paraíso 3123,Chiapas,Cálido,Lago,476,233
+Playa Paraíso 3213,Yucatán,Templado,Selva,432,671
+Desierto Dorado 7812,Yucatán,Húmedo,Lago,421,988
+Cascada Escondida 9879,Puebla,Seco,Lago,112,636
+Montaña Mágica 4127,Chiapas,Cálido,Isla,437,305
+Cañón del Gigante 91,Hidalgo,Cálido,Montaña,345,208
+Laguna Azul 179,Oaxaca,Templado,Lago,369,589
+Bosque de Niebla 4533,Hidalgo,Templado,Playa,402,917
+Desierto Dorado 7701,Hidalgo,Húmedo,Selva,209,349
+Isla del Sol 6414,Oaxaca,Húmedo,Valle,220,280
+Isla del Sol 4623,Veracruz,Templado,Isla,137,217
+Cascada Escondida 3999,Sonora,Frío,Isla,462,159
+Laguna Azul 7081,Veracruz,Húmedo,Selva,296,342
+Montaña Mágica 8881,Chiapas,Húmedo,Isla,126,799
+Valle Encantado 8268,Quintana Roo,Seco,Lago,453,60
+Cañón del Gigante 7836,Yucatán,Húmedo,Montaña,365,829
+Isla del Sol 3037,Chihuahua,Cálido,Valle,106,986
+Laguna Azul 6624,Jalisco,Templado,Selva,296,667
+Cañón del Gigante 5732,Oaxaca,Frío,Valle,111,111
+Cascada Escondida 5436,Chiapas,Seco,Río,462,533
+Laguna Azul 4608,Puebla,Húmedo,Lago,272,86
+Playa Paraíso 7749,Oaxaca,Templado,Valle,462,421
+Cañón del Gigante 7902,Oaxaca,Cálido,Río,371,808
+Valle Encantado 4823,Veracruz,Cálido,Isla,156,654
+Cascada Escondida 5652,Yucatán,Templado,Río,179,969
+Valle Encantado 6231,Veracruz,Frío,Río,413,371
+Desierto Dorado 5689,Quintana Roo,Cálido,Playa,264,842
+Playa Paraíso 4377,Puebla,Cálido,Isla,415,458
+Cañón del Gigante 6985,Yucatán,Frío,Lago,341,726
+Laguna Azul 3300,Sonora,Frío,Valle,129,314
+Cascada Escondida 3688,Chiapas,Húmedo,Isla,315,368
+Valle Encantado 9347,Jalisco,Templado,Isla,164,781
+Desierto Dorado 1058,Quintana Roo,Frío,Selva,80,978
+Valle Encantado 4780,Sonora,Templado,Río,204,151
+Laguna Azul 8139,Yucatán,Frío,Desierto,405,498
+Río Cristalino 8085,Chihuahua,Frío,Isla,99,583
+Cañón del Gigante 6495,Jalisco,Frío,Montaña,78,981
+Bosque de Niebla 1649,Veracruz,Húmedo,Isla,458,973
+Isla del Sol 2514,Jalisco,Cálido,Río,264,539
+Desierto Dorado 1248,Sonora,Seco,Isla,423,490
+Cascada Escondida 9159,Quintana Roo,Frío,Desierto,260,284
+Montaña Mágica 1587,Hidalgo,Cálido,Selva,424,174
+Montaña Mágica 6299,Chihuahua,Cálido,Lago,311,942
+Playa Paraíso 6316,Chiapas,Húmedo,Selva,263,383
+Río Cristalino 9284,Yucatán,Húmedo,Río,158,591
+Valle Encantado 9895,Jalisco,Cálido,Valle,447,854
+Valle Encantado 7968,Chiapas,Templado,Río,271,377
+Desierto Dorado 6989,Chiapas,Cálido,Lago,269,917
+Desierto Dorado 1277,Chihuahua,Templado,Valle,440,226
+Isla del Sol 9368,Hidalgo,Húmedo,Río,263,747
+Playa Paraíso 9666,Sonora,Húmedo,Río,279,452
+Laguna Azul 4410,Oaxaca,Seco,Selva,317,887
+Cañón del Gigante 3053,Quintana Roo,Templado,Valle,275,333
+Bosque de Niebla 7556,Puebla,Seco,Valle,279,126
+Laguna Azul 5699,Quintana Roo,Frío,Isla,217,323
+Valle Encantado 9917,Hidalgo,Húmedo,Playa,111,535
+Río Cristalino 3305,Oaxaca,Húmedo,Río,466,530
+Desierto Dorado 1015,Jalisco,Frío,Valle,448,661
+Laguna Azul 4886,Hidalgo,Frío,Playa,40,90
+Cascada Escondida 8228,Chihuahua,Húmedo,Lago,130,327
+Isla del Sol 1087,Jalisco,Frío,Selva,181,830
+Bosque de Niebla 9919,Chiapas,Seco,Selva,232,801
+Cañón del Gigante 7075,Sonora,Frío,Selva,97,542
+Montaña Mágica 2073,Chihuahua,Frío,Selva,62,182
+Cañón del Gigante 2887,Chiapas,Cálido,Montaña,100,632
+Cañón del Gigante 3577,Oaxaca,Seco,Río,347,255
+Montaña Mágica 5893,Chihuahua,Húmedo,Isla,429,433
+Montaña Mágica 5403,Hidalgo,Seco,Río,409,691
+Bosque de Niebla 7163,Jalisco,Frío,Isla,279,357
+Montaña Mágica 6458,Chiapas,Seco,Isla,385,567
+Montaña Mágica 2355,Hidalgo,Templado,Lago,234,408
+Valle Encantado 5027,Jalisco,Húmedo,Isla,119,293
+Playa Paraíso 5656,Sonora,Seco,Lago,308,479
+Río Cristalino 7671,Sonora,Frío,Montaña,101,551
+Valle Encantado 2716,Yucatán,Frío,Montaña,53,603
+Laguna Azul 2702,Quintana Roo,Templado,Playa,461,77
+Laguna Azul 2616,Hidalgo,Seco,Desierto,114,171
+Montaña Mágica 3670,Veracruz,Cálido,Playa,217,561
+Laguna Azul 3856,Chiapas,Cálido,Selva,456,222
+Playa Paraíso 5718,Quintana Roo,Seco,Valle,396,648
+Playa Paraíso 5038,Veracruz,Cálido,Selva,111,462
+Playa Paraíso 4234,Hidalgo,Cálido,Valle,328,602
+Desierto Dorado 4928,Yucatán,Frío,Lago,259,589
+Isla del Sol 526,Puebla,Templado,Playa,317,155
+Río Cristalino 1396,Chiapas,Seco,Desierto,314,966
+Cañón del Gigante 4364,Chiapas,Frío,Valle,267,152
+Laguna Azul 1914,Oaxaca,Templado,Montaña,377,274
+Cascada Escondida 6507,Veracruz,Seco,Isla,212,743
+Montaña Mágica 905,Sonora,Cálido,Desierto,339,525
+Río Cristalino 382,Quintana Roo,Frío,Lago,49,905
+Bosque de Niebla 2206,Chihuahua,Seco,Lago,278,995
+Valle Encantado 1173,Hidalgo,Húmedo,Isla,335,270
+Cañón del Gigante 8417,Sonora,Templado,Río,390,440
+Bosque de Niebla 8198,Yucatán,Seco,Desierto,120,98
+Río Cristalino 3431,Hidalgo,Húmedo,Playa,222,73
+Desierto Dorado 2672,Quintana Roo,Seco,Selva,200,97
+Valle Encantado 6560,Jalisco,Cálido,Río,426,465
+Desierto Dorado 6726,Yucatán,Templado,Montaña,337,414
+Playa Paraíso 7466,Hidalgo,Seco,Río,472,181
+Cañón del Gigante 6203,Chihuahua,Seco,Montaña,103,570
+Valle Encantado 7317,Puebla,Cálido,Montaña,220,303
+Isla del Sol 5892,Yucatán,Templado,Montaña,121,406
+Montaña Mágica 9889,Yucatán,Frío,Valle,39,147
+Laguna Azul 6069,Puebla,Húmedo,Río,316,696
+Montaña Mágica 1,Hidalgo,Húmedo,Playa,371,750
+Playa Paraíso 1648,Hidalgo,Templado,Desierto,315,816
+Bosque de Niebla 9315,Quintana Roo,Frío,Valle,386,325
+Laguna Azul 5625,Jalisco,Templado,Selva,134,779
+Playa Paraíso 5437,Sonora,Templado,Río,149,738
+Playa Paraíso 3904,Yucatán,Cálido,Río,349,490
+Valle Encantado 1546,Hidalgo,Húmedo,Valle,39,510
+Desierto Dorado 9592,Oaxaca,Templado,Lago,437,278
+Isla del Sol 2526,Chihuahua,Frío,Montaña,153,769
+Laguna Azul 957,Chihuahua,Cálido,Valle,448,958
+Cascada Escondida 3768,Yucatán,Templado,Lago,102,298
+Laguna Azul 22,Veracruz,Templado,Isla,377,738
+Laguna Azul 564,Sonora,Frío,Río,469,967
+Montaña Mágica 5966,Puebla,Húmedo,Selva,119,124
+Playa Paraíso 2612,Chiapas,Seco,Desierto,240,388
+Montaña Mágica 619,Veracruz,Cálido,Valle,93,123
+Río Cristalino 3382,Chihuahua,Frío,Desierto,448,520
+Río Cristalino 1238,Chihuahua,Seco,Montaña,352,808
+Valle Encantado 315,Puebla,Cálido,Montaña,201,692
+Isla del Sol 3308,Yucatán,Templado,Isla,63,428
+Montaña Mágica 1165,Sonora,Seco,Lago,60,429
+Playa Paraíso 7063,Puebla,Frío,Lago,284,369
+Valle Encantado 4211,Chihuahua,Cálido,Playa,320,965
+Laguna Azul 2423,Chiapas,Seco,Valle,334,543
+Montaña Mágica 731,Oaxaca,Templado,Desierto,450,911
+Valle Encantado 6281,Veracruz,Templado,Río,61,619
+Cascada Escondida 7561,Veracruz,Seco,Valle,333,544
+Montaña Mágica 6774,Yucatán,Templado,Río,345,674
+Playa Paraíso 3359,Chihuahua,Cálido,Río,475,436
+Valle Encantado 5187,Oaxaca,Templado,Selva,70,163
+Laguna Azul 6252,Yucatán,Seco,Montaña,136,227
+Cañón del Gigante 942,Sonora,Cálido,Desierto,451,633
+Río Cristalino 4461,Sonora,Templado,Playa,107,617
+Cascada Escondida 7768,Yucatán,Seco,Desierto,132,802
+Laguna Azul 8825,Chihuahua,Cálido,Isla,397,711
+Laguna Azul 9234,Oaxaca,Seco,Playa,226,505
+Isla del Sol 7075,Oaxaca,Cálido,Desierto,344,464
+Desierto Dorado 5218,Hidalgo,Seco,Valle,109,86
+Cascada Escondida 9622,Hidalgo,Seco,Playa,125,239
+Valle Encantado 3452,Jalisco,Cálido,Montaña,371,422
+Bosque de Niebla 4992,Sonora,Húmedo,Selva,142,723
+Bosque de Niebla 4103,Yucatán,Seco,Valle,296,719
+Río Cristalino 6919,Chiapas,Cálido,Desierto,120,213
+Río Cristalino 1030,Veracruz,Frío,Selva,155,970
+Playa Paraíso 657,Quintana Roo,Húmedo,Valle,439,625
+Playa Paraíso 9537,Oaxaca,Seco,Montaña,296,832
+Isla del Sol 2689,Jalisco,Seco,Isla,445,432
+Laguna Azul 5128,Puebla,Templado,Montaña,332,138
+Desierto Dorado 4182,Chiapas,Seco,Valle,108,52
+Isla del Sol 3756,Puebla,Cálido,Desierto,214,159
+Isla del Sol 1313,Puebla,Cálido,Desierto,144,999
+Bosque de Niebla 9467,Oaxaca,Cálido,Isla,390,833
+Cañón del Gigante 746,Jalisco,Seco,Isla,244,683
+Laguna Azul 3480,Sonora,Seco,Montaña,431,893
+Valle Encantado 9383,Yucatán,Frío,Desierto,159,432
+Valle Encantado 9902,Hidalgo,Cálido,Selva,394,993
+Desierto Dorado 5407,Sonora,Templado,Selva,193,827
+Cañón del Gigante 5083,Veracruz,Húmedo,Desierto,304,816
+Río Cristalino 344,Chiapas,Templado,Selva,251,956
+Laguna Azul 2771,Quintana Roo,Seco,Selva,166,155
+Isla del Sol 6182,Puebla,Cálido,Isla,44,708
+Montaña Mágica 2047,Yucatán,Húmedo,Desierto,119,503
+Cañón del Gigante 666,Yucatán,Frío,Isla,133,250
+Cañón del Gigante 7723,Veracruz,Húmedo,Montaña,371,751
+Isla del Sol 2958,Hidalgo,Cálido,Montaña,166,457
+Bosque de Niebla 8240,Yucatán,Seco,Selva,277,614
+Playa Paraíso 7040,Hidalgo,Húmedo,Playa,247,769
+Montaña Mágica 7046,Chiapas,Templado,Montaña,107,194
+Playa Paraíso 9302,Sonora,Frío,Desierto,186,472
+Isla del Sol 3774,Sonora,Seco,Valle,210,199
+Laguna Azul 5323,Veracruz,Templado,Montaña,328,53
+Playa Paraíso 2846,Jalisco,Templado,Desierto,361,286
+Cascada Escondida 2814,Yucatán,Templado,Selva,210,648
+Valle Encantado 1912,Veracruz,Húmedo,Lago,418,316
+Valle Encantado 6602,Puebla,Templado,Isla,367,83
+Desierto Dorado 7601,Yucatán,Templado,Río,42,392
+Cascada Escondida 4056,Veracruz,Húmedo,Valle,346,379
+Montaña Mágica 4125,Yucatán,Húmedo,Río,355,259
+Laguna Azul 9619,Veracruz,Templado,Desierto,55,765
+Valle Encantado 8321,Quintana Roo,Cálido,Desierto,222,974
+Cascada Escondida 8528,Veracruz,Cálido,Valle,168,167
+Bosque de Niebla 8075,Quintana Roo,Frío,Montaña,467,378
+Cascada Escondida 3829,Quintana Roo,Húmedo,Valle,167,384
+Cañón del Gigante 4587,Quintana Roo,Templado,Río,421,395
+Bosque de Niebla 5108,Jalisco,Templado,Montaña,45,829
+Montaña Mágica 2028,Hidalgo,Cálido,Río,66,832
+Bosque de Niebla 9730,Sonora,Cálido,Isla,243,305
+Montaña Mágica 1311,Jalisco,Húmedo,Desierto,409,864
+Río Cristalino 7978,Yucatán,Cálido,Río,193,137
+Montaña Mágica 3047,Jalisco,Húmedo,Selva,311,713
+Río Cristalino 8298,Veracruz,Cálido,Playa,38,885
+Montaña Mágica 5579,Sonora,Templado,Playa,257,83
+Laguna Azul 9208,Veracruz,Cálido,Playa,323,463
+Cañón del Gigante 7709,Puebla,Cálido,Desierto,197,823
+Desierto Dorado 6966,Sonora,Templado,Selva,363,107
+Playa Paraíso 6732,Hidalgo,Seco,Lago,197,672
+Isla del Sol 2880,Puebla,Frío,Montaña,221,941
+Bosque de Niebla 8172,Quintana Roo,Húmedo,Montaña,31,280
+Bosque de Niebla 2543,Yucatán,Seco,Desierto,51,95
+Bosque de Niebla 246,Puebla,Frío,Playa,313,567
+Desierto Dorado 8415,Quintana Roo,Frío,Playa,233,919
+Cañón del Gigante 8046,Quintana Roo,Húmedo,Lago,208,373
+Bosque de Niebla 7976,Chihuahua,Seco,Lago,285,870
+Laguna Azul 188,Veracruz,Frío,Desierto,376,139
+Montaña Mágica 6960,Puebla,Cálido,Isla,147,278
+Bosque de Niebla 8063,Quintana Roo,Cálido,Playa,149,842
+Río Cristalino 9937,Sonora,Templado,Río,38,956
+Río Cristalino 5914,Sonora,Seco,Selva,178,358
+Río Cristalino 224,Quintana Roo,Templado,Desierto,162,54
+Cascada Escondida 499,Chihuahua,Frío,Lago,66,718
+Desierto Dorado 3484,Sonora,Seco,Montaña,57,166
+Valle Encantado 5271,Yucatán,Templado,Lago,199,735
+Río Cristalino 8404,Puebla,Seco,Selva,38,857
+Bosque de Niebla 5724,Quintana Roo,Húmedo,Valle,322,365
+Valle Encantado 5577,Chihuahua,Seco,Isla,235,386
+Río Cristalino 2434,Hidalgo,Templado,Río,413,193
+Cascada Escondida 299,Hidalgo,Frío,Montaña,251,518
+Isla del Sol 6817,Chiapas,Cálido,Isla,433,78
+Valle Encantado 7291,Chiapas,Seco,Montaña,332,710
+Bosque de Niebla 994,Yucatán,Seco,Desierto,108,217
+Cascada Escondida 4807,Chiapas,Cálido,Isla,244,78
+Desierto Dorado 6585,Puebla,Frío,Isla,335,87
+Playa Paraíso 4071,Veracruz,Cálido,Río,176,74
+Laguna Azul 2237,Puebla,Frío,Montaña,443,892
+Isla del Sol 4622,Oaxaca,Frío,Playa,469,506
+Bosque de Niebla 926,Puebla,Seco,Montaña,93,242
+Playa Paraíso 8474,Quintana Roo,Seco,Selva,277,876
+Bosque de Niebla 4219,Chihuahua,Cálido,Río,301,319
+Bosque de Niebla 9050,Puebla,Húmedo,Lago,282,713
+Isla del Sol 567,Hidalgo,Frío,Montaña,166,884
+Montaña Mágica 3452,Jalisco,Frío,Lago,456,901
+Río Cristalino 1777,Puebla,Frío,Montaña,389,690
+Bosque de Niebla 5914,Sonora,Húmedo,Valle,371,180
+Río Cristalino 9658,Sonora,Seco,Valle,143,572
+Cañón del Gigante 1720,Sonora,Templado,Montaña,155,333
+Isla del Sol 6893,Chiapas,Templado,Río,106,243
+Bosque de Niebla 2134,Hidalgo,Cálido,Lago,37,66
+Montaña Mágica 5382,Jalisco,Húmedo,Selva,378,650
+Desierto Dorado 7769,Sonora,Seco,Isla,220,727
+Río Cristalino 7448,Hidalgo,Húmedo,Lago,287,829
+Cascada Escondida 3280,Chiapas,Frío,Río,281,337
+Montaña Mágica 2631,Jalisco,Templado,Río,92,571
+Desierto Dorado 2274,Hidalgo,Húmedo,Desierto,261,222
+Isla del Sol 6098,Sonora,Húmedo,Isla,416,703
+Montaña Mágica 4079,Quintana Roo,Seco,Río,87,76
+Laguna Azul 9155,Puebla,Húmedo,Selva,270,293
+Cañón del Gigante 5338,Veracruz,Seco,Isla,189,836
+Cañón del Gigante 9757,Yucatán,Cálido,Isla,198,616
+Río Cristalino 6451,Oaxaca,Seco,Desierto,350,921
+Isla del Sol 2545,Jalisco,Cálido,Isla,204,797
+Cascada Escondida 229,Oaxaca,Frío,Río,260,239
+Bosque de Niebla 437,Hidalgo,Cálido,Río,200,683
+Cañón del Gigante 1959,Sonora,Frío,Río,397,321
+Cascada Escondida 2371,Quintana Roo,Húmedo,Desierto,195,804
+Río Cristalino 1780,Jalisco,Frío,Río,379,874
+Playa Paraíso 9582,Puebla,Húmedo,Playa,50,670
+Río Cristalino 5997,Puebla,Húmedo,Desierto,266,630
+Montaña Mágica 3440,Chiapas,Húmedo,Playa,228,592
+Laguna Azul 7525,Oaxaca,Cálido,Río,440,902
+Isla del Sol 6406,Oaxaca,Cálido,Selva,358,445
+Montaña Mágica 9653,Yucatán,Húmedo,Montaña,356,592
+Laguna Azul 310,Hidalgo,Frío,Río,98,542
+Bosque de Niebla 4119,Yucatán,Templado,Playa,399,989
+Valle Encantado 848,Quintana Roo,Seco,Lago,117,156
+Montaña Mágica 4301,Veracruz,Cálido,Desierto,340,159
+Bosque de Niebla 6297,Oaxaca,Seco,Isla,323,423
+Laguna Azul 463,Veracruz,Seco,Playa,386,713
+Cascada Escondida 6537,Quintana Roo,Cálido,Río,34,102
+Río Cristalino 4775,Jalisco,Templado,Isla,456,142
+Montaña Mágica 4468,Chihuahua,Seco,Lago,107,495
+Montaña Mágica 4323,Puebla,Frío,Isla,268,540
+Bosque de Niebla 422,Chiapas,Templado,Lago,344,176
+Valle Encantado 7393,Oaxaca,Húmedo,Isla,139,396
+Isla del Sol 6107,Chihuahua,Seco,Desierto,436,217
+Valle Encantado 7013,Chiapas,Seco,Montaña,415,673
+Isla del Sol 1706,Quintana Roo,Templado,Playa,462,522
+Cañón del Gigante 5815,Oaxaca,Templado,Selva,375,482
+Isla del Sol 9491,Veracruz,Seco,Isla,45,67
+Playa Paraíso 7860,Sonora,Frío,Isla,139,70
+Cascada Escondida 6741,Veracruz,Húmedo,Montaña,183,658
+Río Cristalino 1919,Puebla,Húmedo,Valle,70,824
+Cañón del Gigante 5817,Veracruz,Frío,Isla,64,473
+Río Cristalino 820,Jalisco,Húmedo,Desierto,127,518
+Río Cristalino 296,Chiapas,Frío,Montaña,397,543
+Desierto Dorado 5058,Puebla,Frío,Selva,467,826
+Río Cristalino 4737,Sonora,Cálido,Isla,68,665
+Bosque de Niebla 4725,Sonora,Frío,Selva,221,562
+Cañón del Gigante 2589,Hidalgo,Seco,Valle,75,778
+Cañón del Gigante 8109,Hidalgo,Cálido,Lago,136,110
+Playa Paraíso 7703,Hidalgo,Cálido,Desierto,332,892
+Río Cristalino 1112,Sonora,Templado,Río,168,431
+Desierto Dorado 9298,Yucatán,Húmedo,Montaña,92,626
+Cañón del Gigante 7558,Chihuahua,Cálido,Montaña,474,312
+Montaña Mágica 1469,Yucatán,Templado,Río,87,472
+Montaña Mágica 7008,Chiapas,Seco,Isla,227,716
+Cañón del Gigante 2913,Chihuahua,Húmedo,Desierto,355,794
+Montaña Mágica 2996,Yucatán,Frío,Río,353,598
+Río Cristalino 8159,Veracruz,Seco,Desierto,171,322
+Cascada Escondida 5995,Jalisco,Frío,Selva,229,610
+Playa Paraíso 2160,Chihuahua,Frío,Desierto,286,299
+Laguna Azul 4654,Puebla,Húmedo,Montaña,47,175
+Laguna Azul 4392,Jalisco,Húmedo,Desierto,87,780
+Río Cristalino 584,Chiapas,Templado,Isla,260,821
+Laguna Azul 2094,Veracruz,Templado,Lago,280,123
+Laguna Azul 1055,Oaxaca,Húmedo,Playa,322,719
+Isla del Sol 6728,Chiapas,Seco,Lago,346,751
+Cañón del Gigante 2653,Sonora,Cálido,Río,430,90
+Bosque de Niebla 4040,Veracruz,Cálido,Río,76,527
+Río Cristalino 7765,Oaxaca,Seco,Valle,260,805
+Cañón del Gigante 3858,Oaxaca,Templado,Lago,246,399
+Laguna Azul 7121,Sonora,Frío,Selva,262,962
+Laguna Azul 3823,Hidalgo,Húmedo,Valle,199,161
+Cañón del Gigante 5706,Hidalgo,Templado,Montaña,456,390
+Laguna Azul 1912,Oaxaca,Cálido,Desierto,206,450
+Playa Paraíso 4983,Jalisco,Templado,Desierto,105,312
+Valle Encantado 4887,Chihuahua,Húmedo,Río,57,303
+Isla del Sol 2019,Chiapas,Frío,Playa,133,279
+Desierto Dorado 1097,Quintana Roo,Húmedo,Isla,343,596
+Montaña Mágica 9717,Veracruz,Seco,Isla,408,216
+Valle Encantado 8253,Puebla,Seco,Montaña,331,504
+Laguna Azul 9242,Veracruz,Húmedo,Selva,100,935
+Laguna Azul 5777,Jalisco,Templado,Desierto,273,365
+Isla del Sol 5446,Puebla,Cálido,Selva,171,989
+Río Cristalino 575,Puebla,Seco,Lago,236,841
+Playa Paraíso 3849,Hidalgo,Templado,Lago,376,177
+Playa Paraíso 5415,Chiapas,Seco,Desierto,189,848
+Desierto Dorado 7616,Jalisco,Templado,Lago,156,642
+Playa Paraíso 9614,Oaxaca,Seco,Isla,308,527
+Playa Paraíso 96,Chiapas,Cálido,Río,297,458
+Montaña Mágica 3662,Chihuahua,Húmedo,Desierto,302,827
+Playa Paraíso 1204,Sonora,Cálido,Montaña,346,572
+Isla del Sol 9755,Oaxaca,Cálido,Lago,179,773
+Cascada Escondida 3643,Chiapas,Seco,Río,304,101
+Montaña Mágica 4224,Chihuahua,Seco,Río,195,134
+Cañón del Gigante 8153,Veracruz,Templado,Valle,295,271
+Isla del Sol 7562,Quintana Roo,Templado,Selva,50,762
+Cañón del Gigante 8971,Jalisco,Cálido,Desierto,418,437
+Cascada Escondida 8478,Chihuahua,Seco,Desierto,132,488
+Montaña Mágica 4783,Puebla,Seco,Lago,176,240
+Montaña Mágica 6146,Jalisco,Húmedo,Selva,337,150
+Desierto Dorado 1426,Yucatán,Templado,Lago,39,696
+Playa Paraíso 1835,Jalisco,Frío,Isla,153,991
+Isla del Sol 9558,Quintana Roo,Frío,Selva,461,335
+Desierto Dorado 4954,Puebla,Húmedo,Valle,222,574
+Río Cristalino 9571,Sonora,Seco,Desierto,75,953
+Montaña Mágica 7061,Yucatán,Seco,Valle,279,333
+Bosque de Niebla 2285,Jalisco,Frío,Selva,116,102
+Playa Paraíso 3468,Chihuahua,Templado,Isla,273,471
+Bosque de Niebla 1864,Quintana Roo,Templado,Montaña,30,888
+Valle Encantado 7942,Puebla,Húmedo,Lago,96,699
+Montaña Mágica 3358,Quintana Roo,Frío,Playa,300,336
+Isla del Sol 8780,Puebla,Templado,Desierto,112,422
+Cascada Escondida 4839,Puebla,Frío,Lago,32,634
+Valle Encantado 4946,Quintana Roo,Frío,Lago,226,470
+Río Cristalino 925,Yucatán,Seco,Selva,299,579
+Laguna Azul 5629,Puebla,Seco,Isla,413,271
+Isla del Sol 2780,Chiapas,Frío,Lago,212,588
+Playa Paraíso 7595,Yucatán,Seco,Río,63,326
+Río Cristalino 4741,Puebla,Templado,Desierto,312,806
+Laguna Azul 3223,Puebla,Seco,Valle,251,256
+Río Cristalino 6320,Yucatán,Seco,Lago,99,225
+Montaña Mágica 2908,Chiapas,Seco,Montaña,367,361
+Desierto Dorado 5466,Yucatán,Húmedo,Selva,371,215
+Valle Encantado 6457,Quintana Roo,Templado,Río,292,767
+Playa Paraíso 1101,Quintana Roo,Templado,Río,194,293
+Playa Paraíso 3131,Oaxaca,Templado,Montaña,281,529
+Laguna Azul 3497,Veracruz,Frío,Río,399,421
+Montaña Mágica 7784,Jalisco,Seco,Río,350,195
+Isla del Sol 2884,Veracruz,Húmedo,Río,79,280
+Desierto Dorado 9350,Quintana Roo,Frío,Río,284,162
+Cascada Escondida 6007,Veracruz,Cálido,Selva,197,959
+Bosque de Niebla 609,Quintana Roo,Frío,Playa,329,444
+Cascada Escondida 5456,Sonora,Seco,Desierto,244,268
+Laguna Azul 3637,Chiapas,Frío,Río,323,557
+Montaña Mágica 4924,Puebla,Húmedo,Selva,324,493
+Desierto Dorado 4141,Jalisco,Húmedo,Isla,139,342
+Valle Encantado 4411,Quintana Roo,Cálido,Isla,343,200
+Laguna Azul 8286,Puebla,Templado,Lago,373,814
+Valle Encantado 6644,Puebla,Seco,Lago,267,569
+Montaña Mágica 2273,Puebla,Húmedo,Lago,205,915
+Montaña Mágica 790,Quintana Roo,Templado,Lago,158,511
+Isla del Sol 9534,Sonora,Templado,Río,257,902
+Cañón del Gigante 9088,Yucatán,Seco,Playa,353,605
+Cañón del Gigante 9796,Sonora,Frío,Montaña,420,219
+Cascada Escondida 970,Hidalgo,Templado,Lago,427,759
+Bosque de Niebla 1944,Oaxaca,Seco,Lago,327,128
+Desierto Dorado 564,Veracruz,Seco,Río,418,260
+Playa Paraíso 5905,Sonora,Seco,Río,165,572
+Montaña Mágica 4097,Oaxaca,Seco,Río,246,805
+Cascada Escondida 6652,Yucatán,Cálido,Playa,196,699
+Desierto Dorado 3605,Veracruz,Húmedo,Río,205,72
+Valle Encantado 9688,Quintana Roo,Cálido,Desierto,406,753
+Río Cristalino 7347,Jalisco,Húmedo,Montaña,159,457
+Montaña Mágica 9415,Sonora,Templado,Valle,35,582
+Valle Encantado 3313,Chihuahua,Templado,Montaña,445,68
+Laguna Azul 5431,Hidalgo,Seco,Río,235,377
+Laguna Azul 7347,Hidalgo,Seco,Desierto,388,322
+Cascada Escondida 8988,Veracruz,Seco,Río,40,229
+Isla del Sol 3696,Quintana Roo,Húmedo,Desierto,168,128
+Laguna Azul 1701,Hidalgo,Húmedo,Selva,53,363
+Cañón del Gigante 4577,Chihuahua,Frío,Selva,292,120
+Montaña Mágica 1925,Veracruz,Húmedo,Montaña,431,52
+Montaña Mágica 3455,Sonora,Cálido,Playa,83,935
+Playa Paraíso 1588,Chihuahua,Húmedo,Desierto,451,809
+Bosque de Niebla 9278,Veracruz,Frío,Río,120,866
+Valle Encantado 6046,Quintana Roo,Cálido,Selva,416,625
+Montaña Mágica 2444,Yucatán,Seco,Desierto,57,938
+Laguna Azul 6236,Jalisco,Cálido,Río,159,159
+Laguna Azul 6145,Sonora,Seco,Playa,148,707
+Cascada Escondida 6303,Quintana Roo,Seco,Isla,240,649
+Isla del Sol 7274,Oaxaca,Templado,Valle,31,222
+Valle Encantado 7948,Veracruz,Templado,Montaña,400,518
+Río Cristalino 3000,Sonora,Templado,Isla,70,303
+Cañón del Gigante 3562,Chihuahua,Frío,Río,446,528
+Bosque de Niebla 3830,Hidalgo,Húmedo,Desierto,233,937
+Montaña Mágica 2983,Hidalgo,Templado,Playa,420,814
+Playa Paraíso 5825,Hidalgo,Frío,Valle,107,702
+Cañón del Gigante 9054,Jalisco,Templado,Montaña,295,600
+Playa Paraíso 1398,Chiapas,Templado,Playa,376,796
+Río Cristalino 1688,Oaxaca,Cálido,Selva,31,849
+Cascada Escondida 3312,Chihuahua,Cálido,Lago,407,460
+Montaña Mágica 2316,Oaxaca,Húmedo,Valle,365,855
+Montaña Mágica 1928,Chiapas,Seco,Selva,118,338
+Isla del Sol 5282,Veracruz,Cálido,Desierto,339,601
+Río Cristalino 3193,Quintana Roo,Seco,Río,103,469
+Playa Paraíso 4340,Chihuahua,Templado,Río,46,365
+Playa Paraíso 5721,Hidalgo,Seco,Desierto,391,717
+Cañón del Gigante 8650,Hidalgo,Cálido,Isla,286,961
+Montaña Mágica 7811,Veracruz,Seco,Selva,305,891
+Isla del Sol 7986,Yucatán,Seco,Lago,199,201
+Valle Encantado 960,Sonora,Seco,Selva,465,656
+Playa Paraíso 2462,Puebla,Seco,Lago,391,737
+Playa Paraíso 529,Puebla,Cálido,Valle,373,379
+Cascada Escondida 8991,Sonora,Seco,Playa,137,856
+Bosque de Niebla 1978,Sonora,Húmedo,Isla,351,1000
+Río Cristalino 1114,Yucatán,Húmedo,Playa,303,397
+Valle Encantado 3817,Jalisco,Cálido,Desierto,143,89
+Cascada Escondida 7533,Jalisco,Cálido,Desierto,274,433
+Desierto Dorado 3510,Puebla,Templado,Río,224,328
+Isla del Sol 89,Puebla,Cálido,Valle,280,499
+Isla del Sol 7476,Oaxaca,Templado,Playa,467,547
+Valle Encantado 1732,Jalisco,Seco,Río,424,865
+Desierto Dorado 582,Puebla,Templado,Selva,87,433
+Cascada Escondida 7692,Sonora,Seco,Valle,213,453
+Desierto Dorado 3097,Veracruz,Húmedo,Selva,39,260
+Cascada Escondida 9313,Yucatán,Húmedo,Río,88,615
+Valle Encantado 8184,Jalisco,Húmedo,Desierto,121,968
+Cañón del Gigante 2544,Puebla,Cálido,Lago,272,345
+Bosque de Niebla 4128,Chihuahua,Frío,Desierto,453,626
+Isla del Sol 265,Chihuahua,Seco,Lago,296,699
+Río Cristalino 2232,Quintana Roo,Cálido,Río,124,964
+Bosque de Niebla 7301,Sonora,Seco,Isla,247,326
+Playa Paraíso 3473,Hidalgo,Seco,Lago,235,588
+Valle Encantado 4472,Veracruz,Húmedo,Selva,357,206
+Cascada Escondida 5997,Chiapas,Frío,Valle,132,161
+Valle Encantado 258,Jalisco,Húmedo,Playa,476,969
+Desierto Dorado 7249,Yucatán,Frío,Desierto,246,727
+Bosque de Niebla 6637,Yucatán,Frío,Río,213,289
+Cañón del Gigante 5204,Puebla,Frío,Playa,261,484
+Montaña Mágica 1912,Puebla,Frío,Valle,454,366
+Isla del Sol 9065,Oaxaca,Cálido,Lago,364,461
+Laguna Azul 2866,Sonora,Cálido,Montaña,425,777
+Bosque de Niebla 2242,Sonora,Cálido,Playa,147,205
+Playa Paraíso 1151,Veracruz,Seco,Playa,448,995
+Laguna Azul 7164,Jalisco,Seco,Río,273,559
+Montaña Mágica 1592,Chiapas,Cálido,Playa,265,258
+Cascada Escondida 3205,Puebla,Seco,Isla,392,237
+Playa Paraíso 1180,Chiapas,Cálido,Isla,246,947
+Montaña Mágica 9978,Chihuahua,Templado,Selva,193,885
+Laguna Azul 501,Oaxaca,Seco,Desierto,434,261
+Desierto Dorado 5504,Quintana Roo,Templado,Desierto,276,492
+Laguna Azul 3893,Yucatán,Seco,Desierto,61,910
+Bosque de Niebla 697,Sonora,Seco,Desierto,180,208
+Cascada Escondida 9327,Chihuahua,Húmedo,Playa,117,561
+Valle Encantado 5615,Chiapas,Cálido,Río,309,103
+Cañón del Gigante 8234,Puebla,Seco,Selva,206,639
+Isla del Sol 807,Sonora,Seco,Montaña,154,294
+Laguna Azul 897,Hidalgo,Frío,Selva,102,605
+Desierto Dorado 7650,Chihuahua,Seco,Selva,59,204
+Desierto Dorado 5703,Chiapas,Húmedo,Montaña,445,509
+Cañón del Gigante 5899,Sonora,Templado,Montaña,161,961
+Playa Paraíso 5186,Sonora,Templado,Lago,270,368
+Isla del Sol 1631,Jalisco,Cálido,Isla,211,508
+Desierto Dorado 507,Quintana Roo,Seco,Desierto,39,757
+Bosque de Niebla 2015,Yucatán,Cálido,Selva,327,724
+Playa Paraíso 9391,Veracruz,Templado,Playa,111,529
+Cañón del Gigante 2143,Hidalgo,Seco,Desierto,54,871
+Bosque de Niebla 6326,Veracruz,Húmedo,Isla,74,530
+Bosque de Niebla 7298,Quintana Roo,Frío,Valle,445,295
+Isla del Sol 2453,Chihuahua,Templado,Selva,55,121
+Desierto Dorado 4318,Veracruz,Templado,Playa,350,347
+Bosque de Niebla 8690,Chihuahua,Frío,Playa,304,622
+Cañón del Gigante 6165,Hidalgo,Templado,Playa,378,781
+Río Cristalino 6049,Sonora,Húmedo,Lago,50,994
+Laguna Azul 4334,Veracruz,Húmedo,Montaña,230,888
+Cascada Escondida 6180,Yucatán,Cálido,Río,224,108
+Isla del Sol 8773,Puebla,Frío,Isla,312,238
+Bosque de Niebla 8799,Oaxaca,Seco,Lago,243,886
+Laguna Azul 8844,Yucatán,Cálido,Río,90,653
+Cascada Escondida 2329,Chiapas,Cálido,Isla,381,819
+Bosque de Niebla 6534,Yucatán,Cálido,Desierto,289,189
+Laguna Azul 9001,Veracruz,Templado,Río,40,164
+Laguna Azul 7331,Veracruz,Frío,Selva,67,93
+Montaña Mágica 5473,Chihuahua,Seco,Montaña,148,540
+Cascada Escondida 4890,Hidalgo,Frío,Montaña,352,309
+Río Cristalino 2396,Veracruz,Cálido,Valle,275,60
+Bosque de Niebla 2207,Veracruz,Frío,Montaña,197,496
+Playa Paraíso 8497,Quintana Roo,Templado,Río,97,159
+Bosque de Niebla 3387,Chiapas,Templado,Selva,336,431
+Playa Paraíso 2124,Sonora,Seco,Valle,156,232
+Montaña Mágica 4732,Quintana Roo,Templado,Playa,77,934
+Montaña Mágica 7981,Chihuahua,Seco,Valle,366,118
+Cañón del Gigante 4731,Hidalgo,Cálido,Lago,137,386
+Cañón del Gigante 950,Puebla,Templado,Isla,456,932
+Laguna Azul 1113,Yucatán,Frío,Lago,220,220
+Playa Paraíso 8975,Oaxaca,Cálido,Isla,375,581
+Laguna Azul 1728,Jalisco,Húmedo,Selva,109,817
+Desierto Dorado 8947,Sonora,Templado,Playa,149,397
+Isla del Sol 1309,Quintana Roo,Cálido,Río,471,901
+Isla del Sol 9953,Sonora,Frío,Selva,266,236
+Bosque de Niebla 1168,Hidalgo,Húmedo,Lago,278,89
+Laguna Azul 8211,Veracruz,Frío,Montaña,353,967
+Isla del Sol 4401,Jalisco,Cálido,Isla,249,830
+Laguna Azul 848,Sonora,Cálido,Playa,368,745
+Desierto Dorado 46,Sonora,Cálido,Desierto,399,480
+Desierto Dorado 937,Chiapas,Seco,Valle,297,53
+Valle Encantado 71,Chihuahua,Cálido,Valle,394,141
+Montaña Mágica 3691,Chihuahua,Seco,Playa,311,424
+Río Cristalino 4878,Jalisco,Templado,Montaña,139,866
+Cascada Escondida 1614,Veracruz,Frío,Lago,266,98
+Cascada Escondida 3525,Jalisco,Cálido,Playa,389,372
+Bosque de Niebla 3929,Puebla,Húmedo,Selva,290,323
+Cañón del Gigante 1663,Chihuahua,Cálido,Montaña,142,490
+Montaña Mágica 6455,Yucatán,Húmedo,Desierto,36,826
+Cañón del Gigante 8759,Veracruz,Húmedo,Selva,401,450
+Montaña Mágica 1433,Veracruz,Seco,Isla,244,514
+Bosque de Niebla 9241,Chiapas,Templado,Lago,232,651
+Desierto Dorado 6242,Quintana Roo,Frío,Desierto,412,615
+Laguna Azul 4241,Quintana Roo,Frío,Lago,264,795
+Desierto Dorado 2458,Oaxaca,Cálido,Isla,172,416
+Desierto Dorado 3157,Oaxaca,Cálido,Isla,180,913
+Bosque de Niebla 1707,Veracruz,Frío,Valle,288,143
+Cañón del Gigante 1591,Yucatán,Cálido,Montaña,447,683
+Playa Paraíso 7624,Sonora,Cálido,Playa,394,874
+Río Cristalino 6480,Oaxaca,Frío,Valle,278,920
+Isla del Sol 9347,Veracruz,Seco,Selva,233,260
+Bosque de Niebla 1311,Veracruz,Seco,Playa,345,836
+Montaña Mágica 4776,Quintana Roo,Cálido,Montaña,298,361
+Laguna Azul 694,Veracruz,Templado,Playa,208,678
+Río Cristalino 4932,Sonora,Frío,Valle,178,532
+Isla del Sol 1973,Oaxaca,Húmedo,Valle,271,150
+Laguna Azul 3393,Veracruz,Cálido,Valle,369,285
+Isla del Sol 885,Jalisco,Seco,Isla,452,324
+Valle Encantado 6639,Jalisco,Frío,Montaña,183,755
+Valle Encantado 3355,Hidalgo,Frío,Playa,444,532
+Montaña Mágica 3741,Chihuahua,Frío,Desierto,409,516
+Laguna Azul 8289,Hidalgo,Húmedo,Río,381,334
+Montaña Mágica 535,Jalisco,Húmedo,Valle,368,598
+Cañón del Gigante 146,Puebla,Frío,Isla,233,177
+Montaña Mágica 117,Jalisco,Cálido,Valle,361,457
+Desierto Dorado 2805,Chiapas,Seco,Isla,384,358
+Montaña Mágica 7312,Veracruz,Templado,Isla,303,363
+Cascada Escondida 1678,Chiapas,Húmedo,Desierto,83,504
+Isla del Sol 1867,Veracruz,Cálido,Río,173,705
+Valle Encantado 2800,Yucatán,Frío,Selva,333,742
+Cascada Escondida 8221,Chiapas,Frío,Playa,156,801
+Laguna Azul 8908,Puebla,Cálido,Desierto,475,358
+Cascada Escondida 6112,Quintana Roo,Húmedo,Selva,279,157
+Bosque de Niebla 6633,Puebla,Cálido,Montaña,357,185
+Cascada Escondida 1096,Veracruz,Cálido,Valle,196,86
+Montaña Mágica 4332,Hidalgo,Húmedo,Lago,329,774
+Cascada Escondida 9864,Yucatán,Frío,Valle,53,896
+Isla del Sol 9788,Sonora,Frío,Valle,290,301
+Montaña Mágica 3370,Yucatán,Cálido,Montaña,155,236
+Valle Encantado 1877,Jalisco,Templado,Selva,87,84
+Playa Paraíso 6861,Oaxaca,Húmedo,Playa,55,924
+Valle Encantado 6671,Jalisco,Templado,Lago,182,120
+Cascada Escondida 9584,Sonora,Húmedo,Valle,124,474
+Bosque de Niebla 2395,Puebla,Húmedo,Lago,52,839
+Montaña Mágica 6361,Hidalgo,Cálido,Isla,471,357
+Laguna Azul 8779,Oaxaca,Seco,Selva,350,255
+Playa Paraíso 275,Puebla,Cálido,Lago,55,940
+Montaña Mágica 8255,Jalisco,Frío,Lago,345,233
+Montaña Mágica 5707,Chiapas,Húmedo,Valle,132,80
+Cascada Escondida 8338,Yucatán,Húmedo,Isla,103,772
+Montaña Mágica 2481,Veracruz,Húmedo,Río,102,639
+Bosque de Niebla 5183,Chihuahua,Frío,Desierto,259,503
+Montaña Mágica 3381,Chihuahua,Templado,Montaña,405,862
+Desierto Dorado 5088,Chihuahua,Seco,Desierto,435,338
+Río Cristalino 5134,Jalisco,Frío,Playa,106,995
+Cañón del Gigante 6753,Oaxaca,Templado,Valle,421,673
+Bosque de Niebla 479,Sonora,Cálido,Lago,100,222
+Cañón del Gigante 9894,Sonora,Frío,Isla,408,847
+Valle Encantado 2180,Sonora,Frío,Playa,358,255
+Cañón del Gigante 1169,Puebla,Frío,Desierto,422,524
+Valle Encantado 6108,Sonora,Cálido,Desierto,236,884
+Isla del Sol 4409,Jalisco,Seco,Lago,418,902
+Desierto Dorado 1742,Oaxaca,Frío,Río,111,585
+Río Cristalino 1122,Hidalgo,Seco,Montaña,103,670
+Laguna Azul 6808,Oaxaca,Seco,Río,255,182
+Bosque de Niebla 4123,Oaxaca,Frío,Selva,45,258
+Desierto Dorado 7820,Veracruz,Templado,Río,101,668
+Cascada Escondida 4907,Puebla,Húmedo,Desierto,163,451
+Valle Encantado 8071,Quintana Roo,Seco,Valle,235,126
+Isla del Sol 8294,Oaxaca,Templado,Montaña,144,710
+Laguna Azul 8366,Jalisco,Húmedo,Selva,227,779
+Valle Encantado 1143,Sonora,Seco,Montaña,417,308
+Bosque de Niebla 1233,Yucatán,Templado,Río,122,602
+Isla del Sol 4643,Veracruz,Cálido,Río,289,138
+Río Cristalino 5835,Hidalgo,Templado,Valle,310,374
+Isla del Sol 4801,Hidalgo,Húmedo,Playa,444,775
+Cañón del Gigante 7840,Jalisco,Seco,Río,462,202
+Montaña Mágica 660,Puebla,Templado,Lago,285,239
+Playa Paraíso 3669,Hidalgo,Cálido,Montaña,230,874
+Cascada Escondida 7115,Jalisco,Cálido,Lago,258,393
+Isla del Sol 1006,Sonora,Húmedo,Montaña,73,753
+Laguna Azul 6478,Jalisco,Cálido,Montaña,265,271
+Valle Encantado 5649,Chiapas,Húmedo,Playa,462,836
+Bosque de Niebla 8654,Jalisco,Húmedo,Lago,136,955
+Desierto Dorado 7791,Hidalgo,Cálido,Lago,117,905
+Playa Paraíso 513,Veracruz,Húmedo,Montaña,38,737
+Isla del Sol 2477,Quintana Roo,Seco,Montaña,367,785
+Isla del Sol 6461,Yucatán,Cálido,Selva,472,267
+Laguna Azul 3048,Oaxaca,Húmedo,Río,465,88
+Río Cristalino 8486,Oaxaca,Húmedo,Valle,140,406
+Desierto Dorado 8422,Puebla,Seco,Río,243,227
+Isla del Sol 9537,Puebla,Frío,Lago,47,577
+Río Cristalino 8300,Chiapas,Seco,Desierto,384,912
+Cascada Escondida 1075,Veracruz,Seco,Desierto,258,322
+Playa Paraíso 8655,Hidalgo,Seco,Lago,353,426
+Cañón del Gigante 8446,Puebla,Frío,Playa,255,329
+Isla del Sol 9880,Quintana Roo,Seco,Selva,328,986
+Cañón del Gigante 6103,Yucatán,Húmedo,Playa,326,996
+Desierto Dorado 3646,Oaxaca,Seco,Río,39,779
+Desierto Dorado 9113,Puebla,Templado,Lago,183,759
+Laguna Azul 7063,Chihuahua,Cálido,Desierto,404,837
+Desierto Dorado 323,Jalisco,Cálido,Playa,34,352
+Valle Encantado 6864,Veracruz,Húmedo,Desierto,35,499
+Laguna Azul 760,Chiapas,Templado,Isla,114,473
+Cascada Escondida 3112,Hidalgo,Cálido,Lago,286,990
+Valle Encantado 6015,Jalisco,Cálido,Valle,432,742
+Desierto Dorado 2222,Oaxaca,Templado,Montaña,389,471
+Isla del Sol 9162,Quintana Roo,Cálido,Valle,44,77
+Bosque de Niebla 6806,Quintana Roo,Seco,Río,200,59
+Playa Paraíso 3891,Jalisco,Seco,Río,73,942
+Bosque de Niebla 8819,Hidalgo,Templado,Playa,286,701
+Playa Paraíso 486,Puebla,Frío,Montaña,257,120
+Río Cristalino 6029,Chihuahua,Cálido,Playa,31,235
+Laguna Azul 5374,Quintana Roo,Húmedo,Río,134,142
+Desierto Dorado 6059,Sonora,Templado,Río,425,448
+Montaña Mágica 5400,Yucatán,Cálido,Montaña,436,873
+Río Cristalino 5811,Veracruz,Cálido,Lago,80,186
+Laguna Azul 25,Sonora,Templado,Montaña,80,963
+Playa Paraíso 8166,Quintana Roo,Cálido,Desierto,106,399
+Isla del Sol 970,Jalisco,Cálido,Desierto,402,354
+Cañón del Gigante 6281,Hidalgo,Frío,Río,99,435
+Cañón del Gigante 1955,Sonora,Templado,Desierto,207,736
+Cascada Escondida 8662,Quintana Roo,Seco,Desierto,137,798
+Cañón del Gigante 7457,Oaxaca,Húmedo,Selva,243,377
+Playa Paraíso 5939,Puebla,Cálido,Lago,459,972
+Desierto Dorado 5560,Chihuahua,Cálido,Montaña,147,825
+Isla del Sol 1987,Puebla,Cálido,Playa,61,917
+Valle Encantado 4505,Quintana Roo,Cálido,Valle,355,820
+Isla del Sol 3960,Oaxaca,Templado,Selva,249,612
+Cañón del Gigante 4265,Veracruz,Templado,Selva,408,97
+Desierto Dorado 502,Chiapas,Cálido,Selva,107,776
+Laguna Azul 5210,Oaxaca,Seco,Río,32,596
+Río Cristalino 6639,Chiapas,Seco,Desierto,366,616
+Desierto Dorado 5577,Puebla,Frío,Montaña,351,470
+Playa Paraíso 6633,Yucatán,Húmedo,Desierto,332,703
+Playa Paraíso 443,Yucatán,Frío,Río,222,571
+Bosque de Niebla 1360,Sonora,Húmedo,Río,397,783
+Valle Encantado 7216,Oaxaca,Húmedo,Río,280,328
+Playa Paraíso 2425,Oaxaca,Cálido,Montaña,72,107
+Bosque de Niebla 177,Sonora,Cálido,Montaña,288,751
+Montaña Mágica 1624,Oaxaca,Húmedo,Montaña,242,409
+Valle Encantado 3702,Yucatán,Cálido,Selva,342,522
+Isla del Sol 1331,Hidalgo,Seco,Lago,284,879
+Cascada Escondida 8608,Oaxaca,Frío,Valle,478,627
+Cascada Escondida 8771,Jalisco,Templado,Lago,58,636
+Montaña Mágica 8688,Veracruz,Seco,Playa,249,904
+Cañón del Gigante 726,Puebla,Seco,Valle,455,379
+Laguna Azul 1017,Jalisco,Húmedo,Desierto,165,54
+Isla del Sol 5107,Oaxaca,Cálido,Lago,425,285
+Valle Encantado 5795,Chihuahua,Cálido,Lago,344,312
+Cañón del Gigante 2020,Puebla,Templado,Isla,236,831
+Bosque de Niebla 5081,Chiapas,Cálido,Montaña,422,586
+Bosque de Niebla 3397,Quintana Roo,Templado,Valle,424,65
+Río Cristalino 1917,Veracruz,Frío,Desierto,322,569
+Playa Paraíso 5556,Yucatán,Frío,Montaña,53,257
+Cañón del Gigante 8693,Jalisco,Cálido,Montaña,85,427
+Cañón del Gigante 451,Chiapas,Húmedo,Lago,375,716
+Desierto Dorado 2541,Yucatán,Húmedo,Isla,83,300
+Cañón del Gigante 1980,Oaxaca,Frío,Lago,226,719
+Cañón del Gigante 9813,Sonora,Húmedo,Lago,250,365
+Laguna Azul 2097,Jalisco,Seco,Isla,106,141
+Río Cristalino 2487,Jalisco,Cálido,Desierto,137,790
+Valle Encantado 8675,Jalisco,Húmedo,Desierto,340,74
+Bosque de Niebla 9521,Hidalgo,Seco,Playa,390,506
+Montaña Mágica 9622,Yucatán,Seco,Playa,335,155
+Valle Encantado 4784,Chihuahua,Cálido,Playa,125,100
+Valle Encantado 8588,Sonora,Frío,Valle,193,63
+Isla del Sol 166,Oaxaca,Húmedo,Montaña,125,634
+Valle Encantado 5380,Quintana Roo,Seco,Río,323,110
+Isla del Sol 3908,Chiapas,Seco,Montaña,155,98
+Playa Paraíso 3023,Sonora,Seco,Selva,360,157
+Cascada Escondida 6230,Puebla,Cálido,Isla,239,872
+Isla del Sol 5972,Puebla,Seco,Playa,472,584
+Bosque de Niebla 6025,Yucatán,Templado,Río,199,944
+Río Cristalino 5766,Quintana Roo,Frío,Valle,126,704
+Río Cristalino 5584,Sonora,Seco,Montaña,289,545
+Cañón del Gigante 6390,Yucatán,Húmedo,Lago,447,972
+Montaña Mágica 9344,Hidalgo,Frío,Montaña,62,245
+Laguna Azul 2511,Yucatán,Seco,Lago,335,520
+Cascada Escondida 3633,Quintana Roo,Húmedo,Isla,302,865
+Playa Paraíso 3616,Hidalgo,Frío,Valle,374,829
+Desierto Dorado 5672,Yucatán,Frío,Valle,42,601
+Río Cristalino 8280,Puebla,Cálido,Selva,307,90
+Río Cristalino 500,Yucatán,Templado,Selva,400,340
+Playa Paraíso 9338,Oaxaca,Húmedo,Desierto,211,796
+Montaña Mágica 1056,Sonora,Cálido,Playa,87,436
+Cañón del Gigante 934,Jalisco,Frío,Montaña,96,829
+Montaña Mágica 280,Quintana Roo,Seco,Valle,282,203
+Laguna Azul 785,Oaxaca,Húmedo,Montaña,376,757
+Laguna Azul 3659,Hidalgo,Frío,Montaña,442,94
+Cañón del Gigante 3421,Puebla,Templado,Playa,334,275
+Laguna Azul 5720,Veracruz,Seco,Río,336,293
+Valle Encantado 6804,Puebla,Seco,Selva,331,358
+Valle Encantado 3478,Jalisco,Cálido,Selva,130,823
+Cañón del Gigante 5072,Puebla,Templado,Desierto,207,144
+Playa Paraíso 2742,Sonora,Frío,Selva,424,543
+Laguna Azul 6248,Chihuahua,Cálido,Lago,357,341
+Laguna Azul 4361,Puebla,Frío,Lago,369,462
+Río Cristalino 1978,Veracruz,Húmedo,Montaña,168,940
+Laguna Azul 8234,Sonora,Cálido,Isla,69,211
+Bosque de Niebla 7024,Yucatán,Cálido,Río,220,456
+Cascada Escondida 2687,Veracruz,Seco,Isla,435,633
+Cascada Escondida 510,Chihuahua,Húmedo,Playa,364,817
+Cañón del Gigante 392,Quintana Roo,Húmedo,Valle,410,546
+Laguna Azul 26,Hidalgo,Seco,Selva,86,109
+Montaña Mágica 5745,Chiapas,Templado,Selva,435,74
+Laguna Azul 3630,Chiapas,Seco,Río,327,832
+Cañón del Gigante 5044,Chihuahua,Templado,Isla,315,177
+Isla del Sol 8409,Chihuahua,Cálido,Playa,435,750
+Cañón del Gigante 1188,Quintana Roo,Templado,Desierto,233,705
+Río Cristalino 2684,Sonora,Frío,Montaña,58,354
+Bosque de Niebla 4888,Quintana Roo,Húmedo,Playa,401,679
+Montaña Mágica 9088,Chihuahua,Seco,Playa,293,492
+Desierto Dorado 5246,Sonora,Frío,Montaña,273,190
+Desierto Dorado 8180,Chihuahua,Seco,Lago,84,213
+Playa Paraíso 484,Puebla,Frío,Isla,271,843
+Cascada Escondida 3732,Jalisco,Cálido,Lago,451,730
+Cascada Escondida 628,Veracruz,Húmedo,Montaña,310,283
+Laguna Azul 2620,Quintana Roo,Cálido,Desierto,165,961
+Cascada Escondida 7744,Yucatán,Cálido,Playa,113,328
+Playa Paraíso 313,Chihuahua,Seco,Isla,413,94
+Laguna Azul 5601,Jalisco,Frío,Lago,154,304
+Isla del Sol 7136,Chiapas,Templado,Selva,359,627
+Isla del Sol 9981,Puebla,Templado,Río,411,726
+Cascada Escondida 5897,Chiapas,Húmedo,Montaña,58,459
+Bosque de Niebla 8000,Hidalgo,Templado,Río,236,400
+Playa Paraíso 9426,Chihuahua,Frío,Lago,445,86
+Desierto Dorado 7212,Yucatán,Cálido,Selva,453,609
+Cascada Escondida 43,Chiapas,Seco,Montaña,440,153
+Montaña Mágica 9784,Hidalgo,Templado,Selva,300,201
+Cascada Escondida 7715,Jalisco,Seco,Selva,331,449
+Laguna Azul 168,Veracruz,Seco,Isla,210,959
+Cascada Escondida 9029,Yucatán,Cálido,Selva,325,258
+Cañón del Gigante 6705,Veracruz,Seco,Desierto,348,100
+Río Cristalino 3497,Jalisco,Seco,Playa,267,51
+Bosque de Niebla 1083,Oaxaca,Frío,Selva,175,163
+Cañón del Gigante 6261,Jalisco,Cálido,Isla,466,55
+Bosque de Niebla 9618,Quintana Roo,Templado,Valle,212,52
+Río Cristalino 3554,Puebla,Frío,Isla,422,355
+Laguna Azul 9252,Jalisco,Seco,Selva,303,327
+Montaña Mágica 6407,Veracruz,Seco,Montaña,259,117
+Playa Paraíso 5354,Hidalgo,Húmedo,Playa,252,309
+Playa Paraíso 1582,Chihuahua,Cálido,Lago,165,62
+Laguna Azul 7597,Chihuahua,Cálido,Valle,122,597
+Laguna Azul 747,Veracruz,Húmedo,Desierto,447,645
+Bosque de Niebla 8226,Jalisco,Seco,Isla,248,183
+Playa Paraíso 2852,Veracruz,Seco,Río,451,989
+Playa Paraíso 8784,Chiapas,Seco,Río,314,830
+Laguna Azul 7512,Hidalgo,Cálido,Playa,281,766
+Bosque de Niebla 2481,Hidalgo,Templado,Selva,55,448
+Bosque de Niebla 1666,Jalisco,Frío,Montaña,132,854
+Bosque de Niebla 4074,Puebla,Húmedo,Playa,350,817
+Isla del Sol 5962,Jalisco,Seco,Isla,317,525
+Isla del Sol 5638,Veracruz,Húmedo,Desierto,438,212
+Montaña Mágica 2632,Chihuahua,Cálido,Lago,185,647
+Laguna Azul 3811,Chihuahua,Frío,Lago,381,295
+Desierto Dorado 3245,Quintana Roo,Frío,Isla,373,825
+Valle Encantado 688,Chihuahua,Seco,Lago,111,660
+Isla del Sol 2834,Puebla,Cálido,Selva,267,655
+Montaña Mágica 690,Veracruz,Frío,Montaña,221,335
+Playa Paraíso 5002,Oaxaca,Templado,Selva,225,265
+Valle Encantado 5355,Jalisco,Templado,Río,395,404
+Laguna Azul 6343,Sonora,Templado,Desierto,308,626
+Desierto Dorado 1745,Hidalgo,Seco,Montaña,136,155
+Cascada Escondida 8290,Sonora,Templado,Lago,278,603
+Playa Paraíso 8072,Yucatán,Frío,Valle,220,770
+Desierto Dorado 5803,Oaxaca,Seco,Isla,67,160
+Bosque de Niebla 1571,Yucatán,Húmedo,Valle,465,912
+Bosque de Niebla 2787,Yucatán,Seco,Selva,80,188
+Valle Encantado 9159,Puebla,Húmedo,Río,91,353
+Río Cristalino 9408,Hidalgo,Húmedo,Playa,467,91
+Montaña Mágica 7983,Oaxaca,Templado,Playa,101,656
+Bosque de Niebla 4621,Oaxaca,Húmedo,Selva,198,302
+Laguna Azul 6733,Jalisco,Templado,Playa,150,322
+Laguna Azul 7254,Veracruz,Húmedo,Valle,403,929
+Playa Paraíso 6279,Puebla,Frío,Lago,163,550
+Bosque de Niebla 2592,Hidalgo,Seco,Río,157,679
+Playa Paraíso 6825,Puebla,Cálido,Isla,421,75
+Cascada Escondida 7964,Quintana Roo,Templado,Lago,285,824
+Cascada Escondida 7962,Sonora,Frío,Río,121,709
+Desierto Dorado 6369,Quintana Roo,Húmedo,Playa,77,790
+Playa Paraíso 3520,Hidalgo,Templado,Montaña,314,423
+Bosque de Niebla 8525,Chihuahua,Seco,Valle,285,609
+Isla del Sol 1935,Jalisco,Frío,Lago,350,119
+Bosque de Niebla 8308,Yucatán,Frío,Desierto,391,166
+Isla del Sol 540,Puebla,Templado,Playa,260,819
+Cañón del Gigante 7734,Yucatán,Cálido,Isla,427,438
+Desierto Dorado 5354,Puebla,Templado,Lago,358,646
+Laguna Azul 4715,Oaxaca,Templado,Montaña,223,287
+Bosque de Niebla 4589,Veracruz,Cálido,Playa,357,827
+Desierto Dorado 5953,Oaxaca,Frío,Valle,414,974
+Isla del Sol 1527,Veracruz,Frío,Montaña,249,975
+Isla del Sol 3923,Jalisco,Húmedo,Playa,174,744
+Valle Encantado 4365,Chihuahua,Húmedo,Desierto,397,527
+Laguna Azul 8489,Sonora,Húmedo,Playa,93,941
+Playa Paraíso 7311,Puebla,Húmedo,Desierto,341,408
+Isla del Sol 1194,Oaxaca,Templado,Río,162,629
+Desierto Dorado 5176,Sonora,Húmedo,Lago,243,646
+Cañón del Gigante 4866,Sonora,Húmedo,Río,255,960
+Isla del Sol 6201,Veracruz,Húmedo,Río,264,301
+Isla del Sol 1496,Chihuahua,Seco,Selva,48,104
+Cañón del Gigante 7054,Hidalgo,Templado,Lago,117,374
+Cañón del Gigante 6394,Oaxaca,Templado,Valle,216,558
+Bosque de Niebla 1305,Puebla,Templado,Río,432,732
+Valle Encantado 8633,Sonora,Húmedo,Valle,85,598
+Bosque de Niebla 2487,Hidalgo,Frío,Playa,224,640
+Laguna Azul 3542,Chihuahua,Templado,Río,375,362
+Laguna Azul 7235,Puebla,Frío,Playa,359,655
+Laguna Azul 5376,Puebla,Templado,Desierto,61,151
+Laguna Azul 5153,Chihuahua,Templado,Río,89,532
+Cascada Escondida 7841,Veracruz,Templado,Playa,67,175
+Laguna Azul 4078,Quintana Roo,Seco,Valle,472,697
+Cascada Escondida 4654,Sonora,Frío,Playa,320,691
+Valle Encantado 2218,Oaxaca,Húmedo,Montaña,39,103
+Bosque de Niebla 6138,Oaxaca,Húmedo,Isla,307,444
+Laguna Azul 9692,Sonora,Templado,Isla,390,848
+Montaña Mágica 3246,Chiapas,Húmedo,Selva,67,96
+Cascada Escondida 7454,Chihuahua,Frío,Río,93,417
+Montaña Mágica 2040,Sonora,Frío,Montaña,429,774
+Valle Encantado 8578,Puebla,Húmedo,Valle,164,598
+Valle Encantado 66,Oaxaca,Cálido,Selva,317,942
+Laguna Azul 1012,Puebla,Húmedo,Valle,240,887
+Cascada Escondida 6264,Oaxaca,Húmedo,Montaña,147,753
+Cascada Escondida 7716,Veracruz,Frío,Valle,335,390
+Valle Encantado 8052,Chiapas,Cálido,Lago,129,338
+Desierto Dorado 7406,Quintana Roo,Cálido,Lago,370,117
+Desierto Dorado 258,Sonora,Cálido,Selva,308,572
+Tule,Oaxaca,calido,montaña2,1233,184

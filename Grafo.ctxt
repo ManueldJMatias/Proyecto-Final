@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Grafo
+comment1.params=
+comment1.target=Grafo()
+comment2.params=
+comment2.target=boolean\ estaVacio()
+comment3.params=dato
+comment3.target=boolean\ existeVertice(java.lang.Object)
+comment4.params=origen\ destino
+comment4.target=boolean\ agregarArista(java.lang.Object,\ java.lang.Object)
+comment5.params=origen\ destino\ peso
+comment5.target=boolean\ agregarArista(java.lang.Object,\ java.lang.Object,\ float)
+comment6.params=dato
+comment6.target=boolean\ agregarNodo(java.lang.Object)
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

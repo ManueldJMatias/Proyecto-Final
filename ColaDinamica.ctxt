@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=ColaDinamica
+comment1.params=
+comment1.target=ColaDinamica()
+comment2.params=
+comment2.target=boolean\ estaVacio()
+comment3.params=valor
+comment3.target=boolean\ agregar(LugarTuristico)
+comment4.params=
+comment4.target=LugarTuristico\ eliminar()
+comment5.params=
+comment5.target=LugarTuristico\ VerPrimero()
+comment6.params=
+comment6.target=void\ imprimir()
+numComments=7
